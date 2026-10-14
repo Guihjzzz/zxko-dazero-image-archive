@@ -1,0 +1,3521 @@
+{
+  "count": 275,
+  "images": [
+    {
+      "sha256": "11bcf465f1e0e9b0e7111aabd1bfb3c311daf6f654d4f389e3dc1397d3fb4c25",
+      "originalLocalFile": "media-unique/11bcf465f1e0e9b0_zx-logo.jpg",
+      "bytes": 35866,
+      "extension": ".jpg",
+      "duplicateCount": 6,
+      "sources": [
+        "ZXKO site mirror:zx-logo.jpg",
+        "ZXKO site mirror:zxko-logo-main.jpg",
+        "ZXKO site mirror:zxko-logo.jpg",
+        "ZXKO rendered detail sample:zx-logo.jpg",
+        "ZXKO rendered detail sample:zxko-logo-main.jpg",
+        "ZXKO rendered detail sample:zxko-logo.jpg"
+      ],
+      "repositoryFile": "image-originals/11/11bcf465f1e0e9b0e7111aabd1bfb3c311daf6f654d4f389e3dc1397d3fb4c25.jpg",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/11/11bcf465f1e0e9b0e7111aabd1bfb3c311daf6f654d4f389e3dc1397d3fb4c25.jpg"
+    },
+    {
+      "sha256": "147c165a19f48a1ff61e86023c4fefb1b03bc4208275e4dc31c1565f3a0b4f05",
+      "originalLocalFile": "media-unique/147c165a19f48a1f_4571c50f8_logo.jpg",
+      "bytes": 119173,
+      "extension": ".jpg",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero site mirror:cdn\\media.base44.com\\images\\public\\6ac745ac6d9d83f9a599d0bb\\4571c50f8_logo.jpg\\v1\\fill\\w_1200,h_630\\4571c50f8_logo.jpg"
+      ],
+      "repositoryFile": "image-originals/14/147c165a19f48a1ff61e86023c4fefb1b03bc4208275e4dc31c1565f3a0b4f05.jpg",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/14/147c165a19f48a1ff61e86023c4fefb1b03bc4208275e4dc31c1565f3a0b4f05.jpg"
+    },
+    {
+      "sha256": "196564cf943508cdee2eea3562aad719a1b9ab3ae9ff82034fcb24a73d880b44",
+      "originalLocalFile": "media-unique/196564cf943508cd_mc-3.jpg",
+      "bytes": 85455,
+      "extension": ".jpg",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO site mirror:download-assets\\mc-3.jpg",
+        "ZXKO rendered detail sample:download-assets\\mc-3.jpg"
+      ],
+      "repositoryFile": "image-originals/19/196564cf943508cdee2eea3562aad719a1b9ab3ae9ff82034fcb24a73d880b44.jpg",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/19/196564cf943508cdee2eea3562aad719a1b9ab3ae9ff82034fcb24a73d880b44.jpg"
+    },
+    {
+      "sha256": "1c596c07eab8dcaead5d3a8d5cd933416bbbaf99f98ea049f437827793eae44d",
+      "originalLocalFile": "media-unique/1c596c07eab8dcae_creeper-face.jpg",
+      "bytes": 4228,
+      "extension": ".jpg",
+      "duplicateCount": 6,
+      "sources": [
+        "ZXKO site mirror:creeper-face.jpg",
+        "ZXKO site mirror:creeper-search.jpg",
+        "ZXKO site mirror:marketplace-logo.jpg",
+        "ZXKO rendered detail sample:creeper-face.jpg",
+        "ZXKO rendered detail sample:creeper-search.jpg",
+        "ZXKO rendered detail sample:marketplace-logo.jpg"
+      ],
+      "repositoryFile": "image-originals/1c/1c596c07eab8dcaead5d3a8d5cd933416bbbaf99f98ea049f437827793eae44d.jpg",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/1c/1c596c07eab8dcaead5d3a8d5cd933416bbbaf99f98ea049f437827793eae44d.jpg"
+    },
+    {
+      "sha256": "3bf219ffafdefccc12a979f78efe6543d3db7d7101911729e19903f55d5dfba5",
+      "originalLocalFile": "media-unique/3bf219ffafdefccc_zxko-update-logo.jpg",
+      "bytes": 19043,
+      "extension": ".jpg",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO site mirror:zxko-update-logo.jpg",
+        "ZXKO rendered detail sample:zxko-update-logo.jpg"
+      ],
+      "repositoryFile": "image-originals/3b/3bf219ffafdefccc12a979f78efe6543d3db7d7101911729e19903f55d5dfba5.jpg",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/3b/3bf219ffafdefccc12a979f78efe6543d3db7d7101911729e19903f55d5dfba5.jpg"
+    },
+    {
+      "sha256": "644f35f95c986fbad9ac43c731f8b71ef2e9e1453e519da6673561a24e3dfd97",
+      "originalLocalFile": "media-unique/644f35f95c986fba_mc-1.jpg",
+      "bytes": 44909,
+      "extension": ".jpg",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO site mirror:download-assets\\mc-1.jpg",
+        "ZXKO rendered detail sample:download-assets\\mc-1.jpg"
+      ],
+      "repositoryFile": "image-originals/64/644f35f95c986fbad9ac43c731f8b71ef2e9e1453e519da6673561a24e3dfd97.jpg",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/64/644f35f95c986fbad9ac43c731f8b71ef2e9e1453e519da6673561a24e3dfd97.jpg"
+    },
+    {
+      "sha256": "78929c49aadde2856a1a3ef5085e38ed8ac536fa0b1defaee515ce45faf59eb3",
+      "originalLocalFile": "media-unique/78929c49aadde285_mc-5.jpg",
+      "bytes": 61273,
+      "extension": ".jpg",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO site mirror:download-assets\\mc-5.jpg",
+        "ZXKO rendered detail sample:download-assets\\mc-5.jpg"
+      ],
+      "repositoryFile": "image-originals/78/78929c49aadde2856a1a3ef5085e38ed8ac536fa0b1defaee515ce45faf59eb3.jpg",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/78/78929c49aadde2856a1a3ef5085e38ed8ac536fa0b1defaee515ce45faf59eb3.jpg"
+    },
+    {
+      "sha256": "854b55d4b67051f9709d23a7d300fe43b4cb4a962c606e5987667c2fbee82b1c",
+      "originalLocalFile": "media-unique/854b55d4b67051f9_mc-2.jpg",
+      "bytes": 58836,
+      "extension": ".jpg",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO site mirror:download-assets\\mc-2.jpg",
+        "ZXKO rendered detail sample:download-assets\\mc-2.jpg"
+      ],
+      "repositoryFile": "image-originals/85/854b55d4b67051f9709d23a7d300fe43b4cb4a962c606e5987667c2fbee82b1c.jpg",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/85/854b55d4b67051f9709d23a7d300fe43b4cb4a962c606e5987667c2fbee82b1c.jpg"
+    },
+    {
+      "sha256": "a68f27083a91fd29d36b925fa8bb54be0cb755bc3f53fcbd5ecd3cb41528474d",
+      "originalLocalFile": "media-unique/a68f27083a91fd29_4571c50f8_logo.jpg",
+      "bytes": 9859,
+      "extension": ".jpg",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero site mirror:cdn\\media.base44.com\\images\\public\\6ac745ac6d9d83f9a599d0bb\\4571c50f8_logo.jpg\\v1\\fit\\w_180,h_180\\4571c50f8_logo.jpg"
+      ],
+      "repositoryFile": "image-originals/a6/a68f27083a91fd29d36b925fa8bb54be0cb755bc3f53fcbd5ecd3cb41528474d.jpg",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/a6/a68f27083a91fd29d36b925fa8bb54be0cb755bc3f53fcbd5ecd3cb41528474d.jpg"
+    },
+    {
+      "sha256": "edbe67b5985d7c7cd3a6aa787c433dba971d8d05e26524714e3fed8583e5bd54",
+      "originalLocalFile": "media-unique/edbe67b5985d7c7c_mc-4.jpg",
+      "bytes": 51593,
+      "extension": ".jpg",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO site mirror:download-assets\\mc-4.jpg",
+        "ZXKO rendered detail sample:download-assets\\mc-4.jpg"
+      ],
+      "repositoryFile": "image-originals/ed/edbe67b5985d7c7cd3a6aa787c433dba971d8d05e26524714e3fed8583e5bd54.jpg",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/ed/edbe67b5985d7c7cd3a6aa787c433dba971d8d05e26524714e3fed8583e5bd54.jpg"
+    },
+    {
+      "sha256": "006f2dc25bacc39e736bc720e26a6545df7427b6c103b2dd77c1eb872c3f3306",
+      "originalLocalFile": "media-unique/006f2dc25bacc39e_uL.9.png",
+      "bytes": 966,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/uL.9.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+      ],
+      "repositoryFile": "image-originals/00/006f2dc25bacc39e736bc720e26a6545df7427b6c103b2dd77c1eb872c3f3306.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/00/006f2dc25bacc39e736bc720e26a6545df7427b6c103b2dd77c1eb872c3f3306.png"
+    },
+    {
+      "sha256": "007dbf5fa2dc466a4940b0a6a73dab48cb721f64d358f71ff35aaadb9630b5ec",
+      "originalLocalFile": "media-unique/007dbf5fa2dc466a_7o.9.png",
+      "bytes": 525,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/7o.9.png",
+        "Dazero APK:res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/00/007dbf5fa2dc466a4940b0a6a73dab48cb721f64d358f71ff35aaadb9630b5ec.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/00/007dbf5fa2dc466a4940b0a6a73dab48cb721f64d358f71ff35aaadb9630b5ec.png"
+    },
+    {
+      "sha256": "00a1ac74d8164cb5c4749a0b2e77e2c6da4a90abe873d8604f29841c19357c66",
+      "originalLocalFile": "media-unique/00a1ac74d8164cb5_rj.9.png",
+      "bytes": 1098,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/rj.9.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
+      ],
+      "repositoryFile": "image-originals/00/00a1ac74d8164cb5c4749a0b2e77e2c6da4a90abe873d8604f29841c19357c66.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/00/00a1ac74d8164cb5c4749a0b2e77e2c6da4a90abe873d8604f29841c19357c66.png"
+    },
+    {
+      "sha256": "02ad0ea6ff5a560e947452c7d64f679afa2056b44f86ea3b707a1cb175c2ceb0",
+      "originalLocalFile": "media-unique/02ad0ea6ff5a560e_Th.png",
+      "bytes": 785,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/Th.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+      ],
+      "repositoryFile": "image-originals/02/02ad0ea6ff5a560e947452c7d64f679afa2056b44f86ea3b707a1cb175c2ceb0.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/02/02ad0ea6ff5a560e947452c7d64f679afa2056b44f86ea3b707a1cb175c2ceb0.png"
+    },
+    {
+      "sha256": "02c9eedf72592b3db8b8a21d7b384ca1d9ff6f1fe2675ba4e49b6d58b1218b1d",
+      "originalLocalFile": "media-unique/02c9eedf72592b3d_Gc.png",
+      "bytes": 19857,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "ZXKO APK:res/Gc.png"
+      ],
+      "repositoryFile": "image-originals/02/02c9eedf72592b3db8b8a21d7b384ca1d9ff6f1fe2675ba4e49b6d58b1218b1d.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/02/02c9eedf72592b3db8b8a21d7b384ca1d9ff6f1fe2675ba4e49b6d58b1218b1d.png"
+    },
+    {
+      "sha256": "055d5f87b1bbb6677096bc7eb7eace57e40216cb97f2b2b926d26c1263f9abce",
+      "originalLocalFile": "media-unique/055d5f87b1bbb667_w_.png",
+      "bytes": 214,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/w_.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+      ],
+      "repositoryFile": "image-originals/05/055d5f87b1bbb6677096bc7eb7eace57e40216cb97f2b2b926d26c1263f9abce.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/05/055d5f87b1bbb6677096bc7eb7eace57e40216cb97f2b2b926d26c1263f9abce.png"
+    },
+    {
+      "sha256": "07bf5ce5ff8937257afd146062c9bf5ca1f4115a1643529d81845d0202c7ddef",
+      "originalLocalFile": "media-unique/07bf5ce5ff893725_Yt.9.png",
+      "bytes": 209,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/Yt.9.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
+      ],
+      "repositoryFile": "image-originals/07/07bf5ce5ff8937257afd146062c9bf5ca1f4115a1643529d81845d0202c7ddef.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/07/07bf5ce5ff8937257afd146062c9bf5ca1f4115a1643529d81845d0202c7ddef.png"
+    },
+    {
+      "sha256": "08a416adad6c0e9bece3238674a76b24bbac2ce95c1cffca817b3c675ac69f6b",
+      "originalLocalFile": "media-unique/08a416adad6c0e9b_common_google_signin_btn_text_light_normal_background.9.png",
+      "bytes": 465,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+      ],
+      "repositoryFile": "image-originals/08/08a416adad6c0e9bece3238674a76b24bbac2ce95c1cffca817b3c675ac69f6b.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/08/08a416adad6c0e9bece3238674a76b24bbac2ce95c1cffca817b3c675ac69f6b.png"
+    },
+    {
+      "sha256": "092bf333080e2b3ece63147ea15e6ac04915968c010e5c3f85f8cb650d61ecb7",
+      "originalLocalFile": "media-unique/092bf333080e2b3e_common_google_signin_btn_text_light_normal_background.9.png",
+      "bytes": 808,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+      ],
+      "repositoryFile": "image-originals/09/092bf333080e2b3ece63147ea15e6ac04915968c010e5c3f85f8cb650d61ecb7.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/09/092bf333080e2b3ece63147ea15e6ac04915968c010e5c3f85f8cb650d61ecb7.png"
+    },
+    {
+      "sha256": "0c6328c7b2420570a7ec38b3beb3bac9a29d895ac1ab7239315aba7266418593",
+      "originalLocalFile": "media-unique/0c6328c7b2420570_sA.9.png",
+      "bytes": 212,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/sA.9.png",
+        "Dazero APK:res/drawable-hdpi-v4/notification_bg_normal.9.png"
+      ],
+      "repositoryFile": "image-originals/0c/0c6328c7b2420570a7ec38b3beb3bac9a29d895ac1ab7239315aba7266418593.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/0c/0c6328c7b2420570a7ec38b3beb3bac9a29d895ac1ab7239315aba7266418593.png"
+    },
+    {
+      "sha256": "0caaea0060b3772ba433c0e9e3a5452f26f3421ba5023c855157270bc675b309",
+      "originalLocalFile": "media-unique/0caaea0060b3772b_9N.9.png",
+      "bytes": 187,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/9N.9.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/0c/0caaea0060b3772ba433c0e9e3a5452f26f3421ba5023c855157270bc675b309.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/0c/0caaea0060b3772ba433c0e9e3a5452f26f3421ba5023c855157270bc675b309.png"
+    },
+    {
+      "sha256": "0d773e62c756422313262846c787e58f67e0ee87e45e1ae9942002e816c4cb9e",
+      "originalLocalFile": "media-unique/0d773e62c7564223_s4.png",
+      "bytes": 98,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/s4.png",
+        "Dazero APK:res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+      ],
+      "repositoryFile": "image-originals/0d/0d773e62c756422313262846c787e58f67e0ee87e45e1ae9942002e816c4cb9e.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/0d/0d773e62c756422313262846c787e58f67e0ee87e45e1ae9942002e816c4cb9e.png"
+    },
+    {
+      "sha256": "0e631dbfe2575dd16d3fd6c59641dfa4abb5e162d60f59049e4459f0af29fbf6",
+      "originalLocalFile": "media-unique/0e631dbfe2575dd1_4k.png",
+      "bytes": 201,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/4k.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+      ],
+      "repositoryFile": "image-originals/0e/0e631dbfe2575dd16d3fd6c59641dfa4abb5e162d60f59049e4459f0af29fbf6.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/0e/0e631dbfe2575dd16d3fd6c59641dfa4abb5e162d60f59049e4459f0af29fbf6.png"
+    },
+    {
+      "sha256": "0e94827cb93c53ded32d8486d59fbfdf654086be9441db32c6a3aff9a2ee626a",
+      "originalLocalFile": "media-unique/0e94827cb93c53de_wb.png",
+      "bytes": 6718,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "ZXKO APK:res/wb.png"
+      ],
+      "repositoryFile": "image-originals/0e/0e94827cb93c53ded32d8486d59fbfdf654086be9441db32c6a3aff9a2ee626a.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/0e/0e94827cb93c53ded32d8486d59fbfdf654086be9441db32c6a3aff9a2ee626a.png"
+    },
+    {
+      "sha256": "0eed99d0a5e36a468b557605e6ccea495c029f3569844a45f4b5d8dadd77d4a7",
+      "originalLocalFile": "media-unique/0eed99d0a5e36a46_Gf.png",
+      "bytes": 984,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/Gf.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+      ],
+      "repositoryFile": "image-originals/0e/0eed99d0a5e36a468b557605e6ccea495c029f3569844a45f4b5d8dadd77d4a7.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/0e/0eed99d0a5e36a468b557605e6ccea495c029f3569844a45f4b5d8dadd77d4a7.png"
+    },
+    {
+      "sha256": "0f8db605d63bf1d6d35fd647d592ac4e70c9a712ff5d1c2114c8d58a88b8228a",
+      "originalLocalFile": "media-unique/0f8db605d63bf1d6_zV.9.png",
+      "bytes": 2463,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/zV.9.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+      ],
+      "repositoryFile": "image-originals/0f/0f8db605d63bf1d6d35fd647d592ac4e70c9a712ff5d1c2114c8d58a88b8228a.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/0f/0f8db605d63bf1d6d35fd647d592ac4e70c9a712ff5d1c2114c8d58a88b8228a.png"
+    },
+    {
+      "sha256": "0fa17d8754d6d163cc433f087cad6c083173ac87ad7097e76950a25eec5f3e90",
+      "originalLocalFile": "media-unique/0fa17d8754d6d163_Tj.9.png",
+      "bytes": 327,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/Tj.9.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/0f/0fa17d8754d6d163cc433f087cad6c083173ac87ad7097e76950a25eec5f3e90.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/0f/0fa17d8754d6d163cc433f087cad6c083173ac87ad7097e76950a25eec5f3e90.png"
+    },
+    {
+      "sha256": "0fd2f53946eb93b3154f44bdafc8896ea93195a64ce5fc64049e8b7293cd6801",
+      "originalLocalFile": "media-unique/0fd2f53946eb93b3_H-.png",
+      "bytes": 203,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/H-.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl.png"
+      ],
+      "repositoryFile": "image-originals/0f/0fd2f53946eb93b3154f44bdafc8896ea93195a64ce5fc64049e8b7293cd6801.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/0f/0fd2f53946eb93b3154f44bdafc8896ea93195a64ce5fc64049e8b7293cd6801.png"
+    },
+    {
+      "sha256": "100cc6ae3870dd769a252e44608a81956522e867674f854619ba7c68d314cad7",
+      "originalLocalFile": "media-unique/100cc6ae3870dd76_7_.9.png",
+      "bytes": 813,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/7_.9.png",
+        "Dazero APK:res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/10/100cc6ae3870dd769a252e44608a81956522e867674f854619ba7c68d314cad7.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/10/100cc6ae3870dd769a252e44608a81956522e867674f854619ba7c68d314cad7.png"
+    },
+    {
+      "sha256": "12ec9f9ad5fa3d7d897114af6c2297b66f31cb056e43daffbe80d23f6f66396d",
+      "originalLocalFile": "media-unique/12ec9f9ad5fa3d7d_ic_call_decline.png",
+      "bytes": 375,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "Dazero APK:res/drawable-hdpi-v4/ic_call_decline.png",
+        "Dazero APK:res/drawable-hdpi-v4/ic_call_decline_low.png"
+      ],
+      "repositoryFile": "image-originals/12/12ec9f9ad5fa3d7d897114af6c2297b66f31cb056e43daffbe80d23f6f66396d.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/12/12ec9f9ad5fa3d7d897114af6c2297b66f31cb056e43daffbe80d23f6f66396d.png"
+    },
+    {
+      "sha256": "136d08fab0fe416fc7e0eca9c498e63c68357b2caa4241f444bbc3f26f9a74c9",
+      "originalLocalFile": "media-unique/136d08fab0fe416f_NG.png",
+      "bytes": 322,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/NG.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+      ],
+      "repositoryFile": "image-originals/13/136d08fab0fe416fc7e0eca9c498e63c68357b2caa4241f444bbc3f26f9a74c9.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/13/136d08fab0fe416fc7e0eca9c498e63c68357b2caa4241f444bbc3f26f9a74c9.png"
+    },
+    {
+      "sha256": "1411ae65d8160573c166d2a572106fd1103c12f242f67feec5feaa550197e5f5",
+      "originalLocalFile": "media-unique/1411ae65d8160573_9n.9.png",
+      "bytes": 178,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/9n.9.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/14/1411ae65d8160573c166d2a572106fd1103c12f242f67feec5feaa550197e5f5.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/14/1411ae65d8160573c166d2a572106fd1103c12f242f67feec5feaa550197e5f5.png"
+    },
+    {
+      "sha256": "1417574134c5e9321c0b18fea711a08448ccf49957f55e10cedafb13237510f7",
+      "originalLocalFile": "media-unique/1417574134c5e932_io.9.png",
+      "bytes": 1526,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/io.9.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+      ],
+      "repositoryFile": "image-originals/14/1417574134c5e9321c0b18fea711a08448ccf49957f55e10cedafb13237510f7.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/14/1417574134c5e9321c0b18fea711a08448ccf49957f55e10cedafb13237510f7.png"
+    },
+    {
+      "sha256": "14ef3e1fa0a9e97863fa3da39c8640bbd5ca26db1b106ac50272223eb0ec49a2",
+      "originalLocalFile": "media-unique/14ef3e1fa0a9e978_fO.png",
+      "bytes": 12714,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "ZXKO APK:res/fO.png"
+      ],
+      "repositoryFile": "image-originals/14/14ef3e1fa0a9e97863fa3da39c8640bbd5ca26db1b106ac50272223eb0ec49a2.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/14/14ef3e1fa0a9e97863fa3da39c8640bbd5ca26db1b106ac50272223eb0ec49a2.png"
+    },
+    {
+      "sha256": "18620c151330289bba196c1cc1e2699f98061a35be3551876296a8c4d592ba17",
+      "originalLocalFile": "media-unique/18620c151330289b_FW.png",
+      "bytes": 307,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/FW.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+      ],
+      "repositoryFile": "image-originals/18/18620c151330289bba196c1cc1e2699f98061a35be3551876296a8c4d592ba17.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/18/18620c151330289bba196c1cc1e2699f98061a35be3551876296a8c4d592ba17.png"
+    },
+    {
+      "sha256": "18b328d8017e677d5aad3dbd66bae356b5cac978c6f0670938ea648e51d0eb66",
+      "originalLocalFile": "media-unique/18b328d8017e677d_wN.9.png",
+      "bytes": 225,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/wN.9.png",
+        "Dazero APK:res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+      ],
+      "repositoryFile": "image-originals/18/18b328d8017e677d5aad3dbd66bae356b5cac978c6f0670938ea648e51d0eb66.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/18/18b328d8017e677d5aad3dbd66bae356b5cac978c6f0670938ea648e51d0eb66.png"
+    },
+    {
+      "sha256": "1d164250c93d4106b90bdb329410beaaa7a211c0f57e7259d706ab5c67869f2c",
+      "originalLocalFile": "media-unique/1d164250c93d4106_Photoroom_20260905_074344_1788579873847-1d164250.png",
+      "bytes": 284705,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO site mirror:assets\\Photoroom_20260905_074344_1788579873847-1d164250.png",
+        "ZXKO rendered detail sample:assets\\Photoroom_20260905_074344_1788579873847-1d164250.png"
+      ],
+      "repositoryFile": "image-originals/1d/1d164250c93d4106b90bdb329410beaaa7a211c0f57e7259d706ab5c67869f2c.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/1d/1d164250c93d4106b90bdb329410beaaa7a211c0f57e7259d706ab5c67869f2c.png"
+    },
+    {
+      "sha256": "1e3b02e24fa431b1abe0a97ad6723fad43df79fda8176c1060b6fbd31178619f",
+      "originalLocalFile": "media-unique/1e3b02e24fa431b1_KM.png",
+      "bytes": 415,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/KM.png",
+        "Dazero APK:res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+      ],
+      "repositoryFile": "image-originals/1e/1e3b02e24fa431b1abe0a97ad6723fad43df79fda8176c1060b6fbd31178619f.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/1e/1e3b02e24fa431b1abe0a97ad6723fad43df79fda8176c1060b6fbd31178619f.png"
+    },
+    {
+      "sha256": "1f7dd8b3521353af473f41850887e9385cf61c390c6e34e4e2bd991921ccfdf8",
+      "originalLocalFile": "media-unique/1f7dd8b3521353af_IX.9.png",
+      "bytes": 1544,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/IX.9.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+      ],
+      "repositoryFile": "image-originals/1f/1f7dd8b3521353af473f41850887e9385cf61c390c6e34e4e2bd991921ccfdf8.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/1f/1f7dd8b3521353af473f41850887e9385cf61c390c6e34e4e2bd991921ccfdf8.png"
+    },
+    {
+      "sha256": "1f9538745cfd3209cc09ed451c198302aac3a1c5da41e87394377814b1bcc5ee",
+      "originalLocalFile": "media-unique/1f9538745cfd3209_qD.9.png",
+      "bytes": 2834,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/qD.9.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+      ],
+      "repositoryFile": "image-originals/1f/1f9538745cfd3209cc09ed451c198302aac3a1c5da41e87394377814b1bcc5ee.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/1f/1f9538745cfd3209cc09ed451c198302aac3a1c5da41e87394377814b1bcc5ee.png"
+    },
+    {
+      "sha256": "20343222f9f79dd565c3a2248494d452e70820ac1c437173c38badd45f962afd",
+      "originalLocalFile": "media-unique/20343222f9f79dd5_o_.9.png",
+      "bytes": 252,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/o_.9.png",
+        "Dazero APK:res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+      ],
+      "repositoryFile": "image-originals/20/20343222f9f79dd565c3a2248494d452e70820ac1c437173c38badd45f962afd.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/20/20343222f9f79dd565c3a2248494d452e70820ac1c437173c38badd45f962afd.png"
+    },
+    {
+      "sha256": "21f0b55280be10b187ceff8edef4a5a7047683e6e9fcf47de410aa3839f41094",
+      "originalLocalFile": "media-unique/21f0b55280be10b1_je.9.png",
+      "bytes": 212,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/je.9.png",
+        "Dazero APK:res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+      ],
+      "repositoryFile": "image-originals/21/21f0b55280be10b187ceff8edef4a5a7047683e6e9fcf47de410aa3839f41094.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/21/21f0b55280be10b187ceff8edef4a5a7047683e6e9fcf47de410aa3839f41094.png"
+    },
+    {
+      "sha256": "22ad38507de99f7c20df36dbe6e9570ee9a206f00e5a2ec998ec0b20391dd6e7",
+      "originalLocalFile": "media-unique/22ad38507de99f7c_ic_os_notification_fallback_white_24dp.png",
+      "bytes": 482,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-xxxhdpi-v4/ic_os_notification_fallback_white_24dp.png"
+      ],
+      "repositoryFile": "image-originals/22/22ad38507de99f7c20df36dbe6e9570ee9a206f00e5a2ec998ec0b20391dd6e7.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/22/22ad38507de99f7c20df36dbe6e9570ee9a206f00e5a2ec998ec0b20391dd6e7.png"
+    },
+    {
+      "sha256": "233de3540418cb5cc23337ec49a833f177be4e2feab3c2d0c897e3b18602e0ed",
+      "originalLocalFile": "media-unique/233de3540418cb5c_QZ.png",
+      "bytes": 4163,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "ZXKO APK:res/QZ.png"
+      ],
+      "repositoryFile": "image-originals/23/233de3540418cb5cc23337ec49a833f177be4e2feab3c2d0c897e3b18602e0ed.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/23/233de3540418cb5cc23337ec49a833f177be4e2feab3c2d0c897e3b18602e0ed.png"
+    },
+    {
+      "sha256": "23439b8899f4b63d68ae9385eaa49286a4b95b95f79b8b8d37de3b0e4fdbc747",
+      "originalLocalFile": "media-unique/23439b8899f4b63d_QJ.9.png",
+      "bytes": 189,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/QJ.9.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/23/23439b8899f4b63d68ae9385eaa49286a4b95b95f79b8b8d37de3b0e4fdbc747.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/23/23439b8899f4b63d68ae9385eaa49286a4b95b95f79b8b8d37de3b0e4fdbc747.png"
+    },
+    {
+      "sha256": "239d602c9c65f156fe024613207955ac8fbdd395ae6ec3efa51be98e3a4473f4",
+      "originalLocalFile": "media-unique/239d602c9c65f156_Wh.png",
+      "bytes": 171,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/Wh.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+      ],
+      "repositoryFile": "image-originals/23/239d602c9c65f156fe024613207955ac8fbdd395ae6ec3efa51be98e3a4473f4.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/23/239d602c9c65f156fe024613207955ac8fbdd395ae6ec3efa51be98e3a4473f4.png"
+    },
+    {
+      "sha256": "24f5db226f1cd56e5e775f82c37f65f3d1eec9091b26b74861629caf0019c3bd",
+      "originalLocalFile": "media-unique/24f5db226f1cd56e_jW.png",
+      "bytes": 753,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/jW.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl.png"
+      ],
+      "repositoryFile": "image-originals/24/24f5db226f1cd56e5e775f82c37f65f3d1eec9091b26b74861629caf0019c3bd.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/24/24f5db226f1cd56e5e775f82c37f65f3d1eec9091b26b74861629caf0019c3bd.png"
+    },
+    {
+      "sha256": "2552cd1bcdd9882d6c258833fb70bc081a31a2a093ef9c256f92431370a6e5de",
+      "originalLocalFile": "media-unique/2552cd1bcdd9882d_7C.9.png",
+      "bytes": 430,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/7C.9.png",
+        "Dazero APK:res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/25/2552cd1bcdd9882d6c258833fb70bc081a31a2a093ef9c256f92431370a6e5de.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/25/2552cd1bcdd9882d6c258833fb70bc081a31a2a093ef9c256f92431370a6e5de.png"
+    },
+    {
+      "sha256": "25f25112cc46b285767de7b5b058cfc0a9efd5f21cfe724af031505d66a9eceb",
+      "originalLocalFile": "media-unique/25f25112cc46b285_DL.9.png",
+      "bytes": 178,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/DL.9.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/25/25f25112cc46b285767de7b5b058cfc0a9efd5f21cfe724af031505d66a9eceb.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/25/25f25112cc46b285767de7b5b058cfc0a9efd5f21cfe724af031505d66a9eceb.png"
+    },
+    {
+      "sha256": "29953bd8019dd96b7701329b9a203cff63460519549b9cca9a5eb74f9b1b0930",
+      "originalLocalFile": "media-unique/29953bd8019dd96b_ar.png",
+      "bytes": 391,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/ar.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+      ],
+      "repositoryFile": "image-originals/29/29953bd8019dd96b7701329b9a203cff63460519549b9cca9a5eb74f9b1b0930.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/29/29953bd8019dd96b7701329b9a203cff63460519549b9cca9a5eb74f9b1b0930.png"
+    },
+    {
+      "sha256": "2e3d70230977af37c6d7739899a73e63937eebdfe6d802f1a957c43c2f2ab131",
+      "originalLocalFile": "media-unique/2e3d70230977af37_iR.9.png",
+      "bytes": 484,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/iR.9.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/2e/2e3d70230977af37c6d7739899a73e63937eebdfe6d802f1a957c43c2f2ab131.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/2e/2e3d70230977af37c6d7739899a73e63937eebdfe6d802f1a957c43c2f2ab131.png"
+    },
+    {
+      "sha256": "2f7fbda0ba6e53e9a47e2fc0e24e32c447c613a5808c2d6285dc651e83a07ad7",
+      "originalLocalFile": "media-unique/2f7fbda0ba6e53e9_gK.9.png",
+      "bytes": 215,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/gK.9.png",
+        "Dazero APK:res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+      ],
+      "repositoryFile": "image-originals/2f/2f7fbda0ba6e53e9a47e2fc0e24e32c447c613a5808c2d6285dc651e83a07ad7.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/2f/2f7fbda0ba6e53e9a47e2fc0e24e32c447c613a5808c2d6285dc651e83a07ad7.png"
+    },
+    {
+      "sha256": "2fa524cda78d7ebd66164a896a042277b7a56b8658fb318fc700a114cb04f7b2",
+      "originalLocalFile": "media-unique/2fa524cda78d7ebd_d3.png",
+      "bytes": 432,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/d3.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+      ],
+      "repositoryFile": "image-originals/2f/2fa524cda78d7ebd66164a896a042277b7a56b8658fb318fc700a114cb04f7b2.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/2f/2fa524cda78d7ebd66164a896a042277b7a56b8658fb318fc700a114cb04f7b2.png"
+    },
+    {
+      "sha256": "300106b53d670ff7500c229216e486f03eb59c010df12b185a3b2dcf9695e712",
+      "originalLocalFile": "media-unique/300106b53d670ff7_zr.png",
+      "bytes": 7258,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "ZXKO APK:res/zr.png"
+      ],
+      "repositoryFile": "image-originals/30/300106b53d670ff7500c229216e486f03eb59c010df12b185a3b2dcf9695e712.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/30/300106b53d670ff7500c229216e486f03eb59c010df12b185a3b2dcf9695e712.png"
+    },
+    {
+      "sha256": "3633ec99d66aae4332f9a6b2dbd3480513433001a8eec0e796d2bcb69d75b73f",
+      "originalLocalFile": "media-unique/3633ec99d66aae43_uu.9.png",
+      "bytes": 204,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/uu.9.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/36/3633ec99d66aae4332f9a6b2dbd3480513433001a8eec0e796d2bcb69d75b73f.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/36/3633ec99d66aae4332f9a6b2dbd3480513433001a8eec0e796d2bcb69d75b73f.png"
+    },
+    {
+      "sha256": "378694706fb7256dd2248e2af854efd71ec7e8885f61da2e16a2bd32fcf3d0a9",
+      "originalLocalFile": "media-unique/378694706fb7256d_ej.9.png",
+      "bytes": 167,
+      "extension": ".png",
+      "duplicateCount": 6,
+      "sources": [
+        "ZXKO APK:res/ej.9.png",
+        "ZXKO APK:res/hZ.9.png",
+        "ZXKO APK:res/jS1.9.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/37/378694706fb7256dd2248e2af854efd71ec7e8885f61da2e16a2bd32fcf3d0a9.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/37/378694706fb7256dd2248e2af854efd71ec7e8885f61da2e16a2bd32fcf3d0a9.png"
+    },
+    {
+      "sha256": "3ba166ad016b6067e12a790eb87020e8201adaec93d132aff3f32211b4a55024",
+      "originalLocalFile": "media-unique/3ba166ad016b6067_9w.png",
+      "bytes": 2179,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "ZXKO APK:res/9w.png"
+      ],
+      "repositoryFile": "image-originals/3b/3ba166ad016b6067e12a790eb87020e8201adaec93d132aff3f32211b4a55024.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/3b/3ba166ad016b6067e12a790eb87020e8201adaec93d132aff3f32211b4a55024.png"
+    },
+    {
+      "sha256": "3cfd0554844896b500c33513b1e89ed62028d0c80df73d3c5935479f49704a3c",
+      "originalLocalFile": "media-unique/3cfd0554844896b5_UR.png",
+      "bytes": 422,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/UR.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl.png"
+      ],
+      "repositoryFile": "image-originals/3c/3cfd0554844896b500c33513b1e89ed62028d0c80df73d3c5935479f49704a3c.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/3c/3cfd0554844896b500c33513b1e89ed62028d0c80df73d3c5935479f49704a3c.png"
+    },
+    {
+      "sha256": "3dbbad926d540586d6bd1230f3293108774c95e73f6604f0bbf88c3a11530223",
+      "originalLocalFile": "media-unique/3dbbad926d540586_g-.png",
+      "bytes": 585,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/g-.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl.png"
+      ],
+      "repositoryFile": "image-originals/3d/3dbbad926d540586d6bd1230f3293108774c95e73f6604f0bbf88c3a11530223.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/3d/3dbbad926d540586d6bd1230f3293108774c95e73f6604f0bbf88c3a11530223.png"
+    },
+    {
+      "sha256": "3e09afa21c45372c035598c017c8fb405a6d678e6cb84dc857581cb3b40e482d",
+      "originalLocalFile": "media-unique/3e09afa21c45372c_xa.9.png",
+      "bytes": 221,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/xa.9.png",
+        "Dazero APK:res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+      ],
+      "repositoryFile": "image-originals/3e/3e09afa21c45372c035598c017c8fb405a6d678e6cb84dc857581cb3b40e482d.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/3e/3e09afa21c45372c035598c017c8fb405a6d678e6cb84dc857581cb3b40e482d.png"
+    },
+    {
+      "sha256": "3e81491eaab1277cb491bf13aa554d5b60a3cfa4630254fe25079cf2f85dfa39",
+      "originalLocalFile": "media-unique/3e81491eaab1277c_Lf.png",
+      "bytes": 22511,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "ZXKO APK:res/Lf.png"
+      ],
+      "repositoryFile": "image-originals/3e/3e81491eaab1277cb491bf13aa554d5b60a3cfa4630254fe25079cf2f85dfa39.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/3e/3e81491eaab1277cb491bf13aa554d5b60a3cfa4630254fe25079cf2f85dfa39.png"
+    },
+    {
+      "sha256": "3fd2a38a39d8be1e800b82fe03bc095253a4e1f8c78d0d08941b72a646862572",
+      "originalLocalFile": "media-unique/3fd2a38a39d8be1e_Em.png",
+      "bytes": 11611,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "ZXKO APK:res/Em.png"
+      ],
+      "repositoryFile": "image-originals/3f/3fd2a38a39d8be1e800b82fe03bc095253a4e1f8c78d0d08941b72a646862572.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/3f/3fd2a38a39d8be1e800b82fe03bc095253a4e1f8c78d0d08941b72a646862572.png"
+    },
+    {
+      "sha256": "4133830f43f9baa0b0ed3cc80d798b20071da9f51fe12ef6b0bd09abc8d5d33a",
+      "originalLocalFile": "media-unique/4133830f43f9baa0_dW.png",
+      "bytes": 267,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/dW.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+      ],
+      "repositoryFile": "image-originals/41/4133830f43f9baa0b0ed3cc80d798b20071da9f51fe12ef6b0bd09abc8d5d33a.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/41/4133830f43f9baa0b0ed3cc80d798b20071da9f51fe12ef6b0bd09abc8d5d33a.png"
+    },
+    {
+      "sha256": "42a1b93ba380eeba9d499582df981a535f872af234ad6600675fff37459306e5",
+      "originalLocalFile": "media-unique/42a1b93ba380eeba_common_google_signin_btn_text_dark_normal_background.9.png",
+      "bytes": 1638,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+      ],
+      "repositoryFile": "image-originals/42/42a1b93ba380eeba9d499582df981a535f872af234ad6600675fff37459306e5.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/42/42a1b93ba380eeba9d499582df981a535f872af234ad6600675fff37459306e5.png"
+    },
+    {
+      "sha256": "42aee0b03883e94df5e543348a397d1302c1b8221895871a83b81899f5a9647b",
+      "originalLocalFile": "media-unique/42aee0b03883e94d_2K.9.png",
+      "bytes": 225,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/2K.9.png",
+        "Dazero APK:res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+      ],
+      "repositoryFile": "image-originals/42/42aee0b03883e94df5e543348a397d1302c1b8221895871a83b81899f5a9647b.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/42/42aee0b03883e94df5e543348a397d1302c1b8221895871a83b81899f5a9647b.png"
+    },
+    {
+      "sha256": "43ccf1f0a5e9e9ed9a6df33e1b3d378d49dbc8dc60d83b1cdb985e5e48f52497",
+      "originalLocalFile": "media-unique/43ccf1f0a5e9e9ed_-B.png",
+      "bytes": 281,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/-B.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+      ],
+      "repositoryFile": "image-originals/43/43ccf1f0a5e9e9ed9a6df33e1b3d378d49dbc8dc60d83b1cdb985e5e48f52497.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/43/43ccf1f0a5e9e9ed9a6df33e1b3d378d49dbc8dc60d83b1cdb985e5e48f52497.png"
+    },
+    {
+      "sha256": "44c29766b2d88b78a71393b3e3a771ca7eef5f552630c6074f33d6291241d0b9",
+      "originalLocalFile": "media-unique/44c29766b2d88b78_X3.9.png",
+      "bytes": 221,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/X3.9.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
+      ],
+      "repositoryFile": "image-originals/44/44c29766b2d88b78a71393b3e3a771ca7eef5f552630c6074f33d6291241d0b9.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/44/44c29766b2d88b78a71393b3e3a771ca7eef5f552630c6074f33d6291241d0b9.png"
+    },
+    {
+      "sha256": "45fae9312235cdd8347f118a48528822f5232d2b8b437615c3732649a1cf4939",
+      "originalLocalFile": "media-unique/45fae9312235cdd8_admin-default-avatar.png",
+      "bytes": 10129,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO site mirror:admin-default-avatar.png",
+        "ZXKO rendered detail sample:admin-default-avatar.png"
+      ],
+      "repositoryFile": "image-originals/45/45fae9312235cdd8347f118a48528822f5232d2b8b437615c3732649a1cf4939.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/45/45fae9312235cdd8347f118a48528822f5232d2b8b437615c3732649a1cf4939.png"
+    },
+    {
+      "sha256": "468607601140955b21c6091897bfc65f609d386fa68d56c199201895e03b3fbc",
+      "originalLocalFile": "media-unique/468607601140955b_KH.9.png",
+      "bytes": 618,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/KH.9.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/46/468607601140955b21c6091897bfc65f609d386fa68d56c199201895e03b3fbc.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/46/468607601140955b21c6091897bfc65f609d386fa68d56c199201895e03b3fbc.png"
+    },
+    {
+      "sha256": "475f03b3ccff04fce91a7a912142d150a000b1d011da003745dc2c0e3f5fb092",
+      "originalLocalFile": "media-unique/475f03b3ccff04fc_ZN.9.png",
+      "bytes": 229,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/ZN.9.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+      ],
+      "repositoryFile": "image-originals/47/475f03b3ccff04fce91a7a912142d150a000b1d011da003745dc2c0e3f5fb092.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/47/475f03b3ccff04fce91a7a912142d150a000b1d011da003745dc2c0e3f5fb092.png"
+    },
+    {
+      "sha256": "498b0cbd09b6b4feed8aca9ed77d235f5bb272c53d21b332649a00e942d989da",
+      "originalLocalFile": "media-unique/498b0cbd09b6b4fe_te.png",
+      "bytes": 278,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/te.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl.png"
+      ],
+      "repositoryFile": "image-originals/49/498b0cbd09b6b4feed8aca9ed77d235f5bb272c53d21b332649a00e942d989da.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/49/498b0cbd09b6b4feed8aca9ed77d235f5bb272c53d21b332649a00e942d989da.png"
+    },
+    {
+      "sha256": "49903073ab23abfc11a55e1333eb2905c743e1b382006c27c15434fd76e0207c",
+      "originalLocalFile": "media-unique/49903073ab23abfc_1e.9.png",
+      "bytes": 171,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/1e.9.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/49/49903073ab23abfc11a55e1333eb2905c743e1b382006c27c15434fd76e0207c.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/49/49903073ab23abfc11a55e1333eb2905c743e1b382006c27c15434fd76e0207c.png"
+    },
+    {
+      "sha256": "4bc8f4d13d2acccc1338f73ff90cd97695d9210e04de5da924215243c8950bf3",
+      "originalLocalFile": "media-unique/4bc8f4d13d2acccc_Su.9.png",
+      "bytes": 178,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/Su.9.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/4b/4bc8f4d13d2acccc1338f73ff90cd97695d9210e04de5da924215243c8950bf3.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/4b/4bc8f4d13d2acccc1338f73ff90cd97695d9210e04de5da924215243c8950bf3.png"
+    },
+    {
+      "sha256": "4c717ce1ffb551c765981add65d1956132d8f522337de2866b045f0a60485426",
+      "originalLocalFile": "media-unique/4c717ce1ffb551c7_ic_call_answer_video.png",
+      "bytes": 465,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "Dazero APK:res/drawable-xxxhdpi-v4/ic_call_answer_video.png",
+        "Dazero APK:res/drawable-xxxhdpi-v4/ic_call_answer_video_low.png"
+      ],
+      "repositoryFile": "image-originals/4c/4c717ce1ffb551c765981add65d1956132d8f522337de2866b045f0a60485426.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/4c/4c717ce1ffb551c765981add65d1956132d8f522337de2866b045f0a60485426.png"
+    },
+    {
+      "sha256": "4d2fe45a8169f368052c921230a268ba9f53ea5fedbcb09ff35107473551e50c",
+      "originalLocalFile": "media-unique/4d2fe45a8169f368_1J.9.png",
+      "bytes": 1731,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/1J.9.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+      ],
+      "repositoryFile": "image-originals/4d/4d2fe45a8169f368052c921230a268ba9f53ea5fedbcb09ff35107473551e50c.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/4d/4d2fe45a8169f368052c921230a268ba9f53ea5fedbcb09ff35107473551e50c.png"
+    },
+    {
+      "sha256": "4f186547c3fe5796ef49da96d60a4a9a4b347357eaff3794f38e5f2aade3e400",
+      "originalLocalFile": "media-unique/4f186547c3fe5796_3u.9.png",
+      "bytes": 258,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/3u.9.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+      ],
+      "repositoryFile": "image-originals/4f/4f186547c3fe5796ef49da96d60a4a9a4b347357eaff3794f38e5f2aade3e400.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/4f/4f186547c3fe5796ef49da96d60a4a9a4b347357eaff3794f38e5f2aade3e400.png"
+    },
+    {
+      "sha256": "4f2f8c2a7b042e55aa8f43f4ce8134b3217ee9cda432c5ff8d4c33d09d86df68",
+      "originalLocalFile": "media-unique/4f2f8c2a7b042e55_49.png",
+      "bytes": 595,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/49.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+      ],
+      "repositoryFile": "image-originals/4f/4f2f8c2a7b042e55aa8f43f4ce8134b3217ee9cda432c5ff8d4c33d09d86df68.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/4f/4f2f8c2a7b042e55aa8f43f4ce8134b3217ee9cda432c5ff8d4c33d09d86df68.png"
+    },
+    {
+      "sha256": "5080b07eb486ba05ede737b567eb2bb89d7b79a3edb5c2ca8141c6eba012b75d",
+      "originalLocalFile": "media-unique/5080b07eb486ba05_7i.png",
+      "bytes": 464,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/7i.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+      ],
+      "repositoryFile": "image-originals/50/5080b07eb486ba05ede737b567eb2bb89d7b79a3edb5c2ca8141c6eba012b75d.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/50/5080b07eb486ba05ede737b567eb2bb89d7b79a3edb5c2ca8141c6eba012b75d.png"
+    },
+    {
+      "sha256": "52549a8d0b6c35faf2795efdf6b4c5fe2cb34b7e8b1039cca7aa2769b6cab3d0",
+      "originalLocalFile": "media-unique/52549a8d0b6c35fa__q.png",
+      "bytes": 173,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/_q.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+      ],
+      "repositoryFile": "image-originals/52/52549a8d0b6c35faf2795efdf6b4c5fe2cb34b7e8b1039cca7aa2769b6cab3d0.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/52/52549a8d0b6c35faf2795efdf6b4c5fe2cb34b7e8b1039cca7aa2769b6cab3d0.png"
+    },
+    {
+      "sha256": "52a0358e54439373ca39f99cd83cf3a7be73c257f07fae83edd83c9b4891895d",
+      "originalLocalFile": "media-unique/52a0358e54439373_tG.png",
+      "bytes": 476,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/tG.png",
+        "Dazero APK:res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+      ],
+      "repositoryFile": "image-originals/52/52a0358e54439373ca39f99cd83cf3a7be73c257f07fae83edd83c9b4891895d.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/52/52a0358e54439373ca39f99cd83cf3a7be73c257f07fae83edd83c9b4891895d.png"
+    },
+    {
+      "sha256": "533327175e6c6c537a9e5398d8ed4e990bc3aace78eba000a4ea24f749b6a1cd",
+      "originalLocalFile": "media-unique/533327175e6c6c53_world-notice.png",
+      "bytes": 80891,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO site mirror:world-notice.png",
+        "ZXKO rendered detail sample:world-notice.png"
+      ],
+      "repositoryFile": "image-originals/53/533327175e6c6c537a9e5398d8ed4e990bc3aace78eba000a4ea24f749b6a1cd.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/53/533327175e6c6c537a9e5398d8ed4e990bc3aace78eba000a4ea24f749b6a1cd.png"
+    },
+    {
+      "sha256": "53340b0b0f529b26db6af632a0112708233bf312448c5b89a1357b2cd70b3f42",
+      "originalLocalFile": "media-unique/53340b0b0f529b26_8h.png",
+      "bytes": 946,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/8h.png",
+        "Dazero APK:res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+      ],
+      "repositoryFile": "image-originals/53/53340b0b0f529b26db6af632a0112708233bf312448c5b89a1357b2cd70b3f42.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/53/53340b0b0f529b26db6af632a0112708233bf312448c5b89a1357b2cd70b3f42.png"
+    },
+    {
+      "sha256": "5358737cb680ea1cdd6ba400d33316fabf872fd44f6a0e127bfc8bdd1632b374",
+      "originalLocalFile": "media-unique/5358737cb680ea1c_EP.png",
+      "bytes": 310,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/EP.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl.png"
+      ],
+      "repositoryFile": "image-originals/53/5358737cb680ea1cdd6ba400d33316fabf872fd44f6a0e127bfc8bdd1632b374.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/53/5358737cb680ea1cdd6ba400d33316fabf872fd44f6a0e127bfc8bdd1632b374.png"
+    },
+    {
+      "sha256": "549a81cda776769840f37f184d34eb673ff9e5c0671c67172818e91273753e1a",
+      "originalLocalFile": "media-unique/549a81cda7767698_googleg_standard_color_18.png",
+      "bytes": 1441,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+      ],
+      "repositoryFile": "image-originals/54/549a81cda776769840f37f184d34eb673ff9e5c0671c67172818e91273753e1a.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/54/549a81cda776769840f37f184d34eb673ff9e5c0671c67172818e91273753e1a.png"
+    },
+    {
+      "sha256": "559bf783d765c02338e97952bdc9c6689c7ff99090b8c9813369118da8b080f0",
+      "originalLocalFile": "media-unique/559bf783d765c023_z-.9.png",
+      "bytes": 221,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/z-.9.png",
+        "Dazero APK:res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+      ],
+      "repositoryFile": "image-originals/55/559bf783d765c02338e97952bdc9c6689c7ff99090b8c9813369118da8b080f0.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/55/559bf783d765c02338e97952bdc9c6689c7ff99090b8c9813369118da8b080f0.png"
+    },
+    {
+      "sha256": "55bc27772f6d35be9334fb80c371b327db25faa9a6098c3c14049e92654ac1bf",
+      "originalLocalFile": "media-unique/55bc27772f6d35be_u3.png",
+      "bytes": 513,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/u3.png",
+        "Dazero APK:res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl.png"
+      ],
+      "repositoryFile": "image-originals/55/55bc27772f6d35be9334fb80c371b327db25faa9a6098c3c14049e92654ac1bf.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/55/55bc27772f6d35be9334fb80c371b327db25faa9a6098c3c14049e92654ac1bf.png"
+    },
+    {
+      "sha256": "5624a284adf8a5e8e7c2560524eb05d7ee97d09a9c2dbe3a76a840766015ae30",
+      "originalLocalFile": "media-unique/5624a284adf8a5e8_common_google_signin_btn_text_light_normal_background.9.png",
+      "bytes": 1255,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+      ],
+      "repositoryFile": "image-originals/56/5624a284adf8a5e8e7c2560524eb05d7ee97d09a9c2dbe3a76a840766015ae30.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/56/5624a284adf8a5e8e7c2560524eb05d7ee97d09a9c2dbe3a76a840766015ae30.png"
+    },
+    {
+      "sha256": "562cba1ad1b9abd502da9c03f4c10bb2bd728022c546f18059319f2ad293280e",
+      "originalLocalFile": "media-unique/562cba1ad1b9abd5_ut.9.png",
+      "bytes": 754,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/ut.9.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+      ],
+      "repositoryFile": "image-originals/56/562cba1ad1b9abd502da9c03f4c10bb2bd728022c546f18059319f2ad293280e.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/56/562cba1ad1b9abd502da9c03f4c10bb2bd728022c546f18059319f2ad293280e.png"
+    },
+    {
+      "sha256": "58630164770638ab42bb7bd1054035b21d4651a8a4ab08a9d5aa6306d2657556",
+      "originalLocalFile": "media-unique/58630164770638ab_yn.png",
+      "bytes": 3685,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "ZXKO APK:res/yn.png"
+      ],
+      "repositoryFile": "image-originals/58/58630164770638ab42bb7bd1054035b21d4651a8a4ab08a9d5aa6306d2657556.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/58/58630164770638ab42bb7bd1054035b21d4651a8a4ab08a9d5aa6306d2657556.png"
+    },
+    {
+      "sha256": "5a6ca1d0d2fea53813da5b3c9037408087f9f753f58dd2e128a4a48f7689769f",
+      "originalLocalFile": "media-unique/5a6ca1d0d2fea538_BM.png",
+      "bytes": 159,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/BM.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+      ],
+      "repositoryFile": "image-originals/5a/5a6ca1d0d2fea53813da5b3c9037408087f9f753f58dd2e128a4a48f7689769f.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/5a/5a6ca1d0d2fea53813da5b3c9037408087f9f753f58dd2e128a4a48f7689769f.png"
+    },
+    {
+      "sha256": "5ae9594240ada5e53500e2524215b3e2b3c91e6dd95b05e0acdd27d9d8c57e72",
+      "originalLocalFile": "media-unique/5ae9594240ada5e5_yH.9.png",
+      "bytes": 184,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/yH.9.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/5a/5ae9594240ada5e53500e2524215b3e2b3c91e6dd95b05e0acdd27d9d8c57e72.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/5a/5ae9594240ada5e53500e2524215b3e2b3c91e6dd95b05e0acdd27d9d8c57e72.png"
+    },
+    {
+      "sha256": "5c7c682ffb64f4b531de0f9549c0da11c337576e426618522bfd1d35a451a414",
+      "originalLocalFile": "media-unique/5c7c682ffb64f4b5_Nk.9.png",
+      "bytes": 776,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/Nk.9.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
+      ],
+      "repositoryFile": "image-originals/5c/5c7c682ffb64f4b531de0f9549c0da11c337576e426618522bfd1d35a451a414.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/5c/5c7c682ffb64f4b531de0f9549c0da11c337576e426618522bfd1d35a451a414.png"
+    },
+    {
+      "sha256": "5c80d88a7b82ef5833255bf70ff1c26c3efb2a92ae90cac222f3200f59e0b1ea",
+      "originalLocalFile": "media-unique/5c80d88a7b82ef58_ic_call_answer.png",
+      "bytes": 472,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "Dazero APK:res/drawable-hdpi-v4/ic_call_answer.png",
+        "Dazero APK:res/drawable-hdpi-v4/ic_call_answer_low.png"
+      ],
+      "repositoryFile": "image-originals/5c/5c80d88a7b82ef5833255bf70ff1c26c3efb2a92ae90cac222f3200f59e0b1ea.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/5c/5c80d88a7b82ef5833255bf70ff1c26c3efb2a92ae90cac222f3200f59e0b1ea.png"
+    },
+    {
+      "sha256": "5ced2ab774853050255d7309e10b76217813d56f3f8ab8fb73ac3f635d90c676",
+      "originalLocalFile": "media-unique/5ced2ab774853050_dY.png",
+      "bytes": 404,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/dY.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+      ],
+      "repositoryFile": "image-originals/5c/5ced2ab774853050255d7309e10b76217813d56f3f8ab8fb73ac3f635d90c676.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/5c/5ced2ab774853050255d7309e10b76217813d56f3f8ab8fb73ac3f635d90c676.png"
+    },
+    {
+      "sha256": "5d02a81102644428ca639aec3df626eeb4a839a9ddc76fc2b158b04461d7f00f",
+      "originalLocalFile": "media-unique/5d02a81102644428_ic_call_answer_video.png",
+      "bytes": 290,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "Dazero APK:res/drawable-xhdpi-v4/ic_call_answer_video.png",
+        "Dazero APK:res/drawable-xhdpi-v4/ic_call_answer_video_low.png"
+      ],
+      "repositoryFile": "image-originals/5d/5d02a81102644428ca639aec3df626eeb4a839a9ddc76fc2b158b04461d7f00f.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/5d/5d02a81102644428ca639aec3df626eeb4a839a9ddc76fc2b158b04461d7f00f.png"
+    },
+    {
+      "sha256": "5d4161bf9482b5d2a2346cd3fa2739ec3203d995bebac02e89a732943368bbfc",
+      "originalLocalFile": "media-unique/5d4161bf9482b5d2_Pg.9.png",
+      "bytes": 207,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/Pg.9.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
+      ],
+      "repositoryFile": "image-originals/5d/5d4161bf9482b5d2a2346cd3fa2739ec3203d995bebac02e89a732943368bbfc.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/5d/5d4161bf9482b5d2a2346cd3fa2739ec3203d995bebac02e89a732943368bbfc.png"
+    },
+    {
+      "sha256": "5db3ab4d30063b5e8fa63ae2993f83efd0af71d6526b3a1468f9e3bf891af587",
+      "originalLocalFile": "media-unique/5db3ab4d30063b5e_googleg_disabled_color_18.png",
+      "bytes": 727,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+      ],
+      "repositoryFile": "image-originals/5d/5db3ab4d30063b5e8fa63ae2993f83efd0af71d6526b3a1468f9e3bf891af587.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/5d/5db3ab4d30063b5e8fa63ae2993f83efd0af71d6526b3a1468f9e3bf891af587.png"
+    },
+    {
+      "sha256": "5e0799a0d0b5d43ed5ae3a378aaa0847a810ceeff58db9a0f7836ebf4ef17146",
+      "originalLocalFile": "media-unique/5e0799a0d0b5d43e_nf.png",
+      "bytes": 1208,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/nf.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+      ],
+      "repositoryFile": "image-originals/5e/5e0799a0d0b5d43ed5ae3a378aaa0847a810ceeff58db9a0f7836ebf4ef17146.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/5e/5e0799a0d0b5d43ed5ae3a378aaa0847a810ceeff58db9a0f7836ebf4ef17146.png"
+    },
+    {
+      "sha256": "5e3f13ee854fa41354ca7378358b99f8e41f3b1c9968c313b630b02de8704e6e",
+      "originalLocalFile": "media-unique/5e3f13ee854fa413_YG.9.png",
+      "bytes": 203,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/YG.9.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/5e/5e3f13ee854fa41354ca7378358b99f8e41f3b1c9968c313b630b02de8704e6e.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/5e/5e3f13ee854fa41354ca7378358b99f8e41f3b1c9968c313b630b02de8704e6e.png"
+    },
+    {
+      "sha256": "5eca0280bd38a6887b6e41765cf5da573133874625001eb90156eaeb35fbe088",
+      "originalLocalFile": "media-unique/5eca0280bd38a688_6t.png",
+      "bytes": 227,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/6t.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+      ],
+      "repositoryFile": "image-originals/5e/5eca0280bd38a6887b6e41765cf5da573133874625001eb90156eaeb35fbe088.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/5e/5eca0280bd38a6887b6e41765cf5da573133874625001eb90156eaeb35fbe088.png"
+    },
+    {
+      "sha256": "6002eb56783b956b5f91e6ddffaf36cc867402a01a225e627b4c25c8d21a4e23",
+      "originalLocalFile": "media-unique/6002eb56783b956b_j4.png",
+      "bytes": 785,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/j4.png",
+        "Dazero APK:res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+      ],
+      "repositoryFile": "image-originals/60/6002eb56783b956b5f91e6ddffaf36cc867402a01a225e627b4c25c8d21a4e23.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/60/6002eb56783b956b5f91e6ddffaf36cc867402a01a225e627b4c25c8d21a4e23.png"
+    },
+    {
+      "sha256": "6083523032ab5df9e6cb82e4ff3d48af7738900a2e9b23d991beaa2eba7862e9",
+      "originalLocalFile": "media-unique/6083523032ab5df9_googleg_disabled_color_18.png",
+      "bytes": 516,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+      ],
+      "repositoryFile": "image-originals/60/6083523032ab5df9e6cb82e4ff3d48af7738900a2e9b23d991beaa2eba7862e9.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/60/6083523032ab5df9e6cb82e4ff3d48af7738900a2e9b23d991beaa2eba7862e9.png"
+    },
+    {
+      "sha256": "6151450ece3ab9667213c3987b6d8fffa25baf9ff43d53bcd9c94fd8ea7616d0",
+      "originalLocalFile": "media-unique/6151450ece3ab966_qp.png",
+      "bytes": 197,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/qp.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+      ],
+      "repositoryFile": "image-originals/61/6151450ece3ab9667213c3987b6d8fffa25baf9ff43d53bcd9c94fd8ea7616d0.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/61/6151450ece3ab9667213c3987b6d8fffa25baf9ff43d53bcd9c94fd8ea7616d0.png"
+    },
+    {
+      "sha256": "62477adc74d4e6836e3c0e4b5337c37d748cb3f94033f42c629938ef18d38b41",
+      "originalLocalFile": "media-unique/62477adc74d4e683_yg.9.png",
+      "bytes": 395,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/yg.9.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/62/62477adc74d4e6836e3c0e4b5337c37d748cb3f94033f42c629938ef18d38b41.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/62/62477adc74d4e6836e3c0e4b5337c37d748cb3f94033f42c629938ef18d38b41.png"
+    },
+    {
+      "sha256": "6306048ba5f7eca43e7bdadeefa9412180508486fd543e02de93d2a013e223f0",
+      "originalLocalFile": "media-unique/6306048ba5f7eca4_ic_call_answer_video.png",
+      "bytes": 206,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "Dazero APK:res/drawable-mdpi-v4/ic_call_answer_video.png",
+        "Dazero APK:res/drawable-mdpi-v4/ic_call_answer_video_low.png"
+      ],
+      "repositoryFile": "image-originals/63/6306048ba5f7eca43e7bdadeefa9412180508486fd543e02de93d2a013e223f0.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/63/6306048ba5f7eca43e7bdadeefa9412180508486fd543e02de93d2a013e223f0.png"
+    },
+    {
+      "sha256": "636d7f24be686e9515f7d6830ce936baa0a5416468220e94e8e257547967e22c",
+      "originalLocalFile": "media-unique/636d7f24be686e95_0x.9.png",
+      "bytes": 209,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/0x.9.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png"
+      ],
+      "repositoryFile": "image-originals/63/636d7f24be686e9515f7d6830ce936baa0a5416468220e94e8e257547967e22c.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/63/636d7f24be686e9515f7d6830ce936baa0a5416468220e94e8e257547967e22c.png"
+    },
+    {
+      "sha256": "63fad0a19cb9e416586049d40b62161b0cc4c2513d83931d3852e2f5a72e6d13",
+      "originalLocalFile": "media-unique/63fad0a19cb9e416_s0.png",
+      "bytes": 403,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/s0.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+      ],
+      "repositoryFile": "image-originals/63/63fad0a19cb9e416586049d40b62161b0cc4c2513d83931d3852e2f5a72e6d13.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/63/63fad0a19cb9e416586049d40b62161b0cc4c2513d83931d3852e2f5a72e6d13.png"
+    },
+    {
+      "sha256": "646021cc77e7f4bd68ab59fb32d306f81a2042125e6cdaa16184a062a8183f79",
+      "originalLocalFile": "media-unique/646021cc77e7f4bd_2P.png",
+      "bytes": 262,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/2P.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl.png"
+      ],
+      "repositoryFile": "image-originals/64/646021cc77e7f4bd68ab59fb32d306f81a2042125e6cdaa16184a062a8183f79.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/64/646021cc77e7f4bd68ab59fb32d306f81a2042125e6cdaa16184a062a8183f79.png"
+    },
+    {
+      "sha256": "66356f564f051a568e25071f60da312c418309f9129773aceb2246773458681c",
+      "originalLocalFile": "media-unique/66356f564f051a56_ic_call_answer_video.png",
+      "bytes": 199,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "Dazero APK:res/drawable-ldpi-v4/ic_call_answer_video.png",
+        "Dazero APK:res/drawable-ldpi-v4/ic_call_answer_video_low.png"
+      ],
+      "repositoryFile": "image-originals/66/66356f564f051a568e25071f60da312c418309f9129773aceb2246773458681c.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/66/66356f564f051a568e25071f60da312c418309f9129773aceb2246773458681c.png"
+    },
+    {
+      "sha256": "671d27e5a4b42111174b888d57118e05075a556d703bd54f9335202d2a416791",
+      "originalLocalFile": "media-unique/671d27e5a4b42111_CK.9.png",
+      "bytes": 244,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/CK.9.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
+      ],
+      "repositoryFile": "image-originals/67/671d27e5a4b42111174b888d57118e05075a556d703bd54f9335202d2a416791.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/67/671d27e5a4b42111174b888d57118e05075a556d703bd54f9335202d2a416791.png"
+    },
+    {
+      "sha256": "67e701476927078d89ab0bbb39fff12d69702592a7a428237a21168a21ec1038",
+      "originalLocalFile": "media-unique/67e701476927078d_sg.9.png",
+      "bytes": 226,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/sg.9.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/67/67e701476927078d89ab0bbb39fff12d69702592a7a428237a21168a21ec1038.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/67/67e701476927078d89ab0bbb39fff12d69702592a7a428237a21168a21ec1038.png"
+    },
+    {
+      "sha256": "67fe32fb13c71cb70e00336463cc5e20d78ddc63f9a367a9ec06035b6a2ea33d",
+      "originalLocalFile": "media-unique/67fe32fb13c71cb7_2a.png",
+      "bytes": 35271,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "ZXKO APK:res/2a.png"
+      ],
+      "repositoryFile": "image-originals/67/67fe32fb13c71cb70e00336463cc5e20d78ddc63f9a367a9ec06035b6a2ea33d.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/67/67fe32fb13c71cb70e00336463cc5e20d78ddc63f9a367a9ec06035b6a2ea33d.png"
+    },
+    {
+      "sha256": "682c466d3e4f39e31f114abc1632d85e734557bd39814e3ba7d7c61eae2d069b",
+      "originalLocalFile": "media-unique/682c466d3e4f39e3_No.9.png",
+      "bytes": 199,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/No.9.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/68/682c466d3e4f39e31f114abc1632d85e734557bd39814e3ba7d7c61eae2d069b.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/68/682c466d3e4f39e31f114abc1632d85e734557bd39814e3ba7d7c61eae2d069b.png"
+    },
+    {
+      "sha256": "683691d79ef11e863fe4ec84ddc631696e5984b5584fc4549d6586dbaca220c7",
+      "originalLocalFile": "media-unique/683691d79ef11e86_Pb.png",
+      "bytes": 631,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/Pb.png",
+        "Dazero APK:res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+      ],
+      "repositoryFile": "image-originals/68/683691d79ef11e863fe4ec84ddc631696e5984b5584fc4549d6586dbaca220c7.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/68/683691d79ef11e863fe4ec84ddc631696e5984b5584fc4549d6586dbaca220c7.png"
+    },
+    {
+      "sha256": "6adcfc9dd1e1b82b985d223fc8a01c8e8f0dd3b9051d38062674b2380af79a50",
+      "originalLocalFile": "media-unique/6adcfc9dd1e1b82b_ic_call_answer_video.png",
+      "bytes": 254,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "Dazero APK:res/drawable-hdpi-v4/ic_call_answer_video.png",
+        "Dazero APK:res/drawable-hdpi-v4/ic_call_answer_video_low.png"
+      ],
+      "repositoryFile": "image-originals/6a/6adcfc9dd1e1b82b985d223fc8a01c8e8f0dd3b9051d38062674b2380af79a50.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/6a/6adcfc9dd1e1b82b985d223fc8a01c8e8f0dd3b9051d38062674b2380af79a50.png"
+    },
+    {
+      "sha256": "6b2372b414abc1cfcfd71c98f51901a84c46c5b712046aae019b6110de265175",
+      "originalLocalFile": "media-unique/6b2372b414abc1cf_tZ.9.png",
+      "bytes": 198,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/tZ.9.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/6b/6b2372b414abc1cfcfd71c98f51901a84c46c5b712046aae019b6110de265175.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/6b/6b2372b414abc1cfcfd71c98f51901a84c46c5b712046aae019b6110de265175.png"
+    },
+    {
+      "sha256": "6b45aef8bf43767c2c1c83dee2bd9ceb9017994fbef6613891e6bc215e2a5ee3",
+      "originalLocalFile": "media-unique/6b45aef8bf43767c_-N.png",
+      "bytes": 318,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/-N.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl.png"
+      ],
+      "repositoryFile": "image-originals/6b/6b45aef8bf43767c2c1c83dee2bd9ceb9017994fbef6613891e6bc215e2a5ee3.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/6b/6b45aef8bf43767c2c1c83dee2bd9ceb9017994fbef6613891e6bc215e2a5ee3.png"
+    },
+    {
+      "sha256": "6d34a8bb29be26e343781603588506f33bd1b93732a1c1bc9fd84678aa36b178",
+      "originalLocalFile": "media-unique/6d34a8bb29be26e3_ic_call_answer.png",
+      "bytes": 270,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "Dazero APK:res/drawable-ldpi-v4/ic_call_answer.png",
+        "Dazero APK:res/drawable-ldpi-v4/ic_call_answer_low.png"
+      ],
+      "repositoryFile": "image-originals/6d/6d34a8bb29be26e343781603588506f33bd1b93732a1c1bc9fd84678aa36b178.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/6d/6d34a8bb29be26e343781603588506f33bd1b93732a1c1bc9fd84678aa36b178.png"
+    },
+    {
+      "sha256": "71a2ba63a5d4e91f7c14324fa1c3eb9290b73cb7b3c7828018d05adb1cfaab45",
+      "originalLocalFile": "media-unique/71a2ba63a5d4e91f_9z.png",
+      "bytes": 593,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/9z.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+      ],
+      "repositoryFile": "image-originals/71/71a2ba63a5d4e91f7c14324fa1c3eb9290b73cb7b3c7828018d05adb1cfaab45.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/71/71a2ba63a5d4e91f7c14324fa1c3eb9290b73cb7b3c7828018d05adb1cfaab45.png"
+    },
+    {
+      "sha256": "71bfd776b21b1102f26e31a0f6dc65d40de2cbae650c7528241d5cdc17eac991",
+      "originalLocalFile": "media-unique/71bfd776b21b1102_common_google_signin_btn_icon_dark_normal_background.9.png",
+      "bytes": 610,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+      ],
+      "repositoryFile": "image-originals/71/71bfd776b21b1102f26e31a0f6dc65d40de2cbae650c7528241d5cdc17eac991.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/71/71bfd776b21b1102f26e31a0f6dc65d40de2cbae650c7528241d5cdc17eac991.png"
+    },
+    {
+      "sha256": "71f14a18275f8678fd9f0c1c0affc400a975a0b815b82eca7345b6aaecf978ee",
+      "originalLocalFile": "media-unique/71f14a18275f8678_common_google_signin_btn_icon_light_normal_background.9.png",
+      "bytes": 1138,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+      ],
+      "repositoryFile": "image-originals/71/71f14a18275f8678fd9f0c1c0affc400a975a0b815b82eca7345b6aaecf978ee.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/71/71f14a18275f8678fd9f0c1c0affc400a975a0b815b82eca7345b6aaecf978ee.png"
+    },
+    {
+      "sha256": "727d78fec3f903a271c0476a50e8c064d28b32f7829b016ae0a07da53b83b281",
+      "originalLocalFile": "media-unique/727d78fec3f903a2_42.9.png",
+      "bytes": 214,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/42.9.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
+      ],
+      "repositoryFile": "image-originals/72/727d78fec3f903a271c0476a50e8c064d28b32f7829b016ae0a07da53b83b281.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/72/727d78fec3f903a271c0476a50e8c064d28b32f7829b016ae0a07da53b83b281.png"
+    },
+    {
+      "sha256": "7442cda653acbacdf9aef256aa191e5ebb6071a1747312aec45e1db8252a3cfb",
+      "originalLocalFile": "media-unique/7442cda653acbacd_RV.png",
+      "bytes": 563,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/RV.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+      ],
+      "repositoryFile": "image-originals/74/7442cda653acbacdf9aef256aa191e5ebb6071a1747312aec45e1db8252a3cfb.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/74/7442cda653acbacdf9aef256aa191e5ebb6071a1747312aec45e1db8252a3cfb.png"
+    },
+    {
+      "sha256": "7656f2f19a84cefc2bf9fafc00760216775d333fc0b08eb85ff1e0006b46fc20",
+      "originalLocalFile": "media-unique/7656f2f19a84cefc_62.9.png",
+      "bytes": 210,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/62.9.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/76/7656f2f19a84cefc2bf9fafc00760216775d333fc0b08eb85ff1e0006b46fc20.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/76/7656f2f19a84cefc2bf9fafc00760216775d333fc0b08eb85ff1e0006b46fc20.png"
+    },
+    {
+      "sha256": "777a1cf53820aa467267d1f64e5f923656f93047038ea6375bcce257b517930e",
+      "originalLocalFile": "media-unique/777a1cf53820aa46_m0.png",
+      "bytes": 267,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/m0.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+      ],
+      "repositoryFile": "image-originals/77/777a1cf53820aa467267d1f64e5f923656f93047038ea6375bcce257b517930e.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/77/777a1cf53820aa467267d1f64e5f923656f93047038ea6375bcce257b517930e.png"
+    },
+    {
+      "sha256": "779a2606a931a399a2c9d3bd01f3c510c412f2916478aa687e430e6003b0a5f3",
+      "originalLocalFile": "media-unique/779a2606a931a399_NZ.9.png",
+      "bytes": 182,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/NZ.9.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/77/779a2606a931a399a2c9d3bd01f3c510c412f2916478aa687e430e6003b0a5f3.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/77/779a2606a931a399a2c9d3bd01f3c510c412f2916478aa687e430e6003b0a5f3.png"
+    },
+    {
+      "sha256": "77d8cc5447360efba3b3f1659bea9680eccbe47e2aaa07424d562f0e5c8af829",
+      "originalLocalFile": "media-unique/77d8cc5447360efb_common_google_signin_btn_icon_light_normal_background.9.png",
+      "bytes": 500,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+      ],
+      "repositoryFile": "image-originals/77/77d8cc5447360efba3b3f1659bea9680eccbe47e2aaa07424d562f0e5c8af829.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/77/77d8cc5447360efba3b3f1659bea9680eccbe47e2aaa07424d562f0e5c8af829.png"
+    },
+    {
+      "sha256": "77f0ebab2416404eb1d562342e431541d885686dd1e49d6dc93be1a86c2273c4",
+      "originalLocalFile": "media-unique/77f0ebab2416404e_z9.9.png",
+      "bytes": 417,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/z9.9.png",
+        "Dazero APK:res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/77/77f0ebab2416404eb1d562342e431541d885686dd1e49d6dc93be1a86c2273c4.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/77/77f0ebab2416404eb1d562342e431541d885686dd1e49d6dc93be1a86c2273c4.png"
+    },
+    {
+      "sha256": "788a3b9472e9a46e1b6b68d918cd1571914b732e93aab014d77f20be5374e9de",
+      "originalLocalFile": "media-unique/788a3b9472e9a46e_googleg_standard_color_18.png",
+      "bytes": 562,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-mdpi-v4/googleg_standard_color_18.png"
+      ],
+      "repositoryFile": "image-originals/78/788a3b9472e9a46e1b6b68d918cd1571914b732e93aab014d77f20be5374e9de.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/78/788a3b9472e9a46e1b6b68d918cd1571914b732e93aab014d77f20be5374e9de.png"
+    },
+    {
+      "sha256": "7c1e1629c95fb2603fbdeab93a8fbf30b9c80be11ef483d497f8a88e8f67bd6b",
+      "originalLocalFile": "media-unique/7c1e1629c95fb260_googleg_disabled_color_18.png",
+      "bytes": 281,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+      ],
+      "repositoryFile": "image-originals/7c/7c1e1629c95fb2603fbdeab93a8fbf30b9c80be11ef483d497f8a88e8f67bd6b.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/7c/7c1e1629c95fb2603fbdeab93a8fbf30b9c80be11ef483d497f8a88e8f67bd6b.png"
+    },
+    {
+      "sha256": "7c45e46e405f5b4a3d0c62a22e67010c3327022dd1c1f4bbccea1279a4d1ad74",
+      "originalLocalFile": "media-unique/7c45e46e405f5b4a_W4.9.png",
+      "bytes": 217,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/W4.9.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+      ],
+      "repositoryFile": "image-originals/7c/7c45e46e405f5b4a3d0c62a22e67010c3327022dd1c1f4bbccea1279a4d1ad74.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/7c/7c45e46e405f5b4a3d0c62a22e67010c3327022dd1c1f4bbccea1279a4d1ad74.png"
+    },
+    {
+      "sha256": "7c8472b72441cc28a1ac53a08b4f0c14f310af338175ba6c46fd6342ac8ce2ff",
+      "originalLocalFile": "media-unique/7c8472b72441cc28_xH.png",
+      "bytes": 186,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/xH.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl.png"
+      ],
+      "repositoryFile": "image-originals/7c/7c8472b72441cc28a1ac53a08b4f0c14f310af338175ba6c46fd6342ac8ce2ff.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/7c/7c8472b72441cc28a1ac53a08b4f0c14f310af338175ba6c46fd6342ac8ce2ff.png"
+    },
+    {
+      "sha256": "7e87b3e0229126dc3c2bdaddcd8f330f3bb5f7613a05024c3cd6445dd161f788",
+      "originalLocalFile": "media-unique/7e87b3e0229126dc_ic_call_decline.png",
+      "bytes": 264,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "Dazero APK:res/drawable-mdpi-v4/ic_call_decline.png",
+        "Dazero APK:res/drawable-mdpi-v4/ic_call_decline_low.png"
+      ],
+      "repositoryFile": "image-originals/7e/7e87b3e0229126dc3c2bdaddcd8f330f3bb5f7613a05024c3cd6445dd161f788.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/7e/7e87b3e0229126dc3c2bdaddcd8f330f3bb5f7613a05024c3cd6445dd161f788.png"
+    },
+    {
+      "sha256": "80502979302dee7353f475f558c497ae6697f77181a51f7cc80b40d72c2e0c4c",
+      "originalLocalFile": "media-unique/80502979302dee73_eT.9.png",
+      "bytes": 318,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/eT.9.png",
+        "Dazero APK:res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/80/80502979302dee7353f475f558c497ae6697f77181a51f7cc80b40d72c2e0c4c.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/80/80502979302dee7353f475f558c497ae6697f77181a51f7cc80b40d72c2e0c4c.png"
+    },
+    {
+      "sha256": "823a35fb821fb69d595b05fcadd28396e4996850174275a2481452d05eddd27b",
+      "originalLocalFile": "media-unique/823a35fb821fb69d_zR.png",
+      "bytes": 2678,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "ZXKO APK:res/zR.png"
+      ],
+      "repositoryFile": "image-originals/82/823a35fb821fb69d595b05fcadd28396e4996850174275a2481452d05eddd27b.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/82/823a35fb821fb69d595b05fcadd28396e4996850174275a2481452d05eddd27b.png"
+    },
+    {
+      "sha256": "83a46279e2f65d852c9452c86e38326ef9f3def6f5bec2ef1416c72815a5fbfa",
+      "originalLocalFile": "media-unique/83a46279e2f65d85_Wr.png",
+      "bytes": 335,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/Wr.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl.png"
+      ],
+      "repositoryFile": "image-originals/83/83a46279e2f65d852c9452c86e38326ef9f3def6f5bec2ef1416c72815a5fbfa.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/83/83a46279e2f65d852c9452c86e38326ef9f3def6f5bec2ef1416c72815a5fbfa.png"
+    },
+    {
+      "sha256": "8430ec003e003f3f2ba2f78d48fd150e25407667e530e82e87a7d4841c0fd676",
+      "originalLocalFile": "media-unique/8430ec003e003f3f_pY.png",
+      "bytes": 107,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/pY.png",
+        "Dazero APK:res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+      ],
+      "repositoryFile": "image-originals/84/8430ec003e003f3f2ba2f78d48fd150e25407667e530e82e87a7d4841c0fd676.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/84/8430ec003e003f3f2ba2f78d48fd150e25407667e530e82e87a7d4841c0fd676.png"
+    },
+    {
+      "sha256": "8436624220fba246ae816a3aab379dfd7ff2a484284ab24c3af4989778705bb3",
+      "originalLocalFile": "media-unique/8436624220fba246_UE.9.png",
+      "bytes": 222,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/UE.9.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_list_focused_holo.9.png"
+      ],
+      "repositoryFile": "image-originals/84/8436624220fba246ae816a3aab379dfd7ff2a484284ab24c3af4989778705bb3.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/84/8436624220fba246ae816a3aab379dfd7ff2a484284ab24c3af4989778705bb3.png"
+    },
+    {
+      "sha256": "86763a30af2a934c7c13b123b36443d1d17918b71c6149bc6ee80115b872593d",
+      "originalLocalFile": "media-unique/86763a30af2a934c_ic_call_answer.png",
+      "bytes": 884,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "Dazero APK:res/drawable-xxhdpi-v4/ic_call_answer.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/ic_call_answer_low.png"
+      ],
+      "repositoryFile": "image-originals/86/86763a30af2a934c7c13b123b36443d1d17918b71c6149bc6ee80115b872593d.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/86/86763a30af2a934c7c13b123b36443d1d17918b71c6149bc6ee80115b872593d.png"
+    },
+    {
+      "sha256": "87adad32e0ec19c4e920420bf3a06c9f94f6128ed0d866a1891628aeab2cef06",
+      "originalLocalFile": "media-unique/87adad32e0ec19c4_ic_call_decline.png",
+      "bytes": 628,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "Dazero APK:res/drawable-xxhdpi-v4/ic_call_decline.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/ic_call_decline_low.png"
+      ],
+      "repositoryFile": "image-originals/87/87adad32e0ec19c4e920420bf3a06c9f94f6128ed0d866a1891628aeab2cef06.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/87/87adad32e0ec19c4e920420bf3a06c9f94f6128ed0d866a1891628aeab2cef06.png"
+    },
+    {
+      "sha256": "89c28e887b0d60c01b35dcd2be654f416bffb66e8565716dc983e3b0204967e8",
+      "originalLocalFile": "media-unique/89c28e887b0d60c0_ev.9.png",
+      "bytes": 228,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/ev.9.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+      ],
+      "repositoryFile": "image-originals/89/89c28e887b0d60c01b35dcd2be654f416bffb66e8565716dc983e3b0204967e8.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/89/89c28e887b0d60c01b35dcd2be654f416bffb66e8565716dc983e3b0204967e8.png"
+    },
+    {
+      "sha256": "8c3de5389a4fedf23b1efdf1c7737ca7eb44f381c22369153dfa972613a4c448",
+      "originalLocalFile": "media-unique/8c3de5389a4fedf2_wL.9.png",
+      "bytes": 437,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/wL.9.png",
+        "Dazero APK:res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/8c/8c3de5389a4fedf23b1efdf1c7737ca7eb44f381c22369153dfa972613a4c448.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/8c/8c3de5389a4fedf23b1efdf1c7737ca7eb44f381c22369153dfa972613a4c448.png"
+    },
+    {
+      "sha256": "8c6846f4105ef1c02107e842142e9ce60b08819296e9510b2d0c12cf4560c5e1",
+      "originalLocalFile": "media-unique/8c6846f4105ef1c0_s3.9.png",
+      "bytes": 245,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/s3.9.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
+      ],
+      "repositoryFile": "image-originals/8c/8c6846f4105ef1c02107e842142e9ce60b08819296e9510b2d0c12cf4560c5e1.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/8c/8c6846f4105ef1c02107e842142e9ce60b08819296e9510b2d0c12cf4560c5e1.png"
+    },
+    {
+      "sha256": "8e57870d2c94d9dbfd87f799a5778038ad90b3d54cf4d0812c831eb3e8d4fb42",
+      "originalLocalFile": "media-unique/8e57870d2c94d9db_as.png",
+      "bytes": 35970,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "ZXKO APK:res/as.png"
+      ],
+      "repositoryFile": "image-originals/8e/8e57870d2c94d9dbfd87f799a5778038ad90b3d54cf4d0812c831eb3e8d4fb42.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/8e/8e57870d2c94d9dbfd87f799a5778038ad90b3d54cf4d0812c831eb3e8d4fb42.png"
+    },
+    {
+      "sha256": "8fcf5b9da03c68dff65adfa8713db9ce3b5e423a9f5046f1785ab640c2a647fb",
+      "originalLocalFile": "media-unique/8fcf5b9da03c68df_Pa.9.png",
+      "bytes": 738,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/Pa.9.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+      ],
+      "repositoryFile": "image-originals/8f/8fcf5b9da03c68dff65adfa8713db9ce3b5e423a9f5046f1785ab640c2a647fb.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/8f/8fcf5b9da03c68dff65adfa8713db9ce3b5e423a9f5046f1785ab640c2a647fb.png"
+    },
+    {
+      "sha256": "90c44675525e290332f7dba6adb97c7af3b8299e56cf5211e893d0e1dec41547",
+      "originalLocalFile": "media-unique/90c44675525e2903_googleg_standard_color_18.png",
+      "bytes": 982,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+      ],
+      "repositoryFile": "image-originals/90/90c44675525e290332f7dba6adb97c7af3b8299e56cf5211e893d0e1dec41547.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/90/90c44675525e290332f7dba6adb97c7af3b8299e56cf5211e893d0e1dec41547.png"
+    },
+    {
+      "sha256": "90e5587f48c6f8795f5f3bb5d994ed7cf1931ac774be887ad6289599db4e0d6b",
+      "originalLocalFile": "media-unique/90e5587f48c6f879_FS.png",
+      "bytes": 5344,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "ZXKO APK:res/FS.png"
+      ],
+      "repositoryFile": "image-originals/90/90e5587f48c6f8795f5f3bb5d994ed7cf1931ac774be887ad6289599db4e0d6b.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/90/90e5587f48c6f8795f5f3bb5d994ed7cf1931ac774be887ad6289599db4e0d6b.png"
+    },
+    {
+      "sha256": "91b8358e22ac1b8554c71a528414acf30088d9ad562bdac3814844771c14c8a9",
+      "originalLocalFile": "media-unique/91b8358e22ac1b85_tU.9.png",
+      "bytes": 208,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/tU.9.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
+      ],
+      "repositoryFile": "image-originals/91/91b8358e22ac1b8554c71a528414acf30088d9ad562bdac3814844771c14c8a9.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/91/91b8358e22ac1b8554c71a528414acf30088d9ad562bdac3814844771c14c8a9.png"
+    },
+    {
+      "sha256": "93b7657184473d5881669b80e3d43fd64e442d1ed71be4ced3518380b6cec69d",
+      "originalLocalFile": "media-unique/93b7657184473d58_x3.9.png",
+      "bytes": 212,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/x3.9.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png"
+      ],
+      "repositoryFile": "image-originals/93/93b7657184473d5881669b80e3d43fd64e442d1ed71be4ced3518380b6cec69d.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/93/93b7657184473d5881669b80e3d43fd64e442d1ed71be4ced3518380b6cec69d.png"
+    },
+    {
+      "sha256": "94a0b6363a09d466a3dc3722379ab367d9ff73a21ba0ff2c5bab6c30aa5f8b38",
+      "originalLocalFile": "media-unique/94a0b6363a09d466_common_google_signin_btn_icon_light_normal_background.9.png",
+      "bytes": 683,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+      ],
+      "repositoryFile": "image-originals/94/94a0b6363a09d466a3dc3722379ab367d9ff73a21ba0ff2c5bab6c30aa5f8b38.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/94/94a0b6363a09d466a3dc3722379ab367d9ff73a21ba0ff2c5bab6c30aa5f8b38.png"
+    },
+    {
+      "sha256": "94ae2273a335672c1c67988e7af595d42e80526edb7f5654ee130dce06fd40d7",
+      "originalLocalFile": "media-unique/94ae2273a335672c_o9.9.png",
+      "bytes": 260,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/o9.9.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+      ],
+      "repositoryFile": "image-originals/94/94ae2273a335672c1c67988e7af595d42e80526edb7f5654ee130dce06fd40d7.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/94/94ae2273a335672c1c67988e7af595d42e80526edb7f5654ee130dce06fd40d7.png"
+    },
+    {
+      "sha256": "94fe9824714ad94c002fe6219e723c0d80c7cbe3a6130d7aa493730b67e294d1",
+      "originalLocalFile": "media-unique/94fe9824714ad94c_9X.9.png",
+      "bytes": 192,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/9X.9.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/94/94fe9824714ad94c002fe6219e723c0d80c7cbe3a6130d7aa493730b67e294d1.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/94/94fe9824714ad94c002fe6219e723c0d80c7cbe3a6130d7aa493730b67e294d1.png"
+    },
+    {
+      "sha256": "95b8fef489c5ddea491b4c8d48ba636135ccd18b27ce031575bdade4824faba4",
+      "originalLocalFile": "media-unique/95b8fef489c5ddea_ic_os_notification_fallback_white_24dp.png",
+      "bytes": 265,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-xhdpi-v4/ic_os_notification_fallback_white_24dp.png"
+      ],
+      "repositoryFile": "image-originals/95/95b8fef489c5ddea491b4c8d48ba636135ccd18b27ce031575bdade4824faba4.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/95/95b8fef489c5ddea491b4c8d48ba636135ccd18b27ce031575bdade4824faba4.png"
+    },
+    {
+      "sha256": "9635dab0f3c0b0557f3535d9655784f68130db57ce3920ae68c2d4cab4edd35e",
+      "originalLocalFile": "media-unique/9635dab0f3c0b055_common_google_signin_btn_text_dark_normal_background.9.png",
+      "bytes": 615,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+      ],
+      "repositoryFile": "image-originals/96/9635dab0f3c0b0557f3535d9655784f68130db57ce3920ae68c2d4cab4edd35e.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/96/9635dab0f3c0b0557f3535d9655784f68130db57ce3920ae68c2d4cab4edd35e.png"
+    },
+    {
+      "sha256": "9865619196624a3cba32a36b0111357afea3148f123221ba8c7265bc681ab8a9",
+      "originalLocalFile": "media-unique/9865619196624a3c_common_google_signin_btn_icon_dark_normal_background.9.png",
+      "bytes": 897,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+      ],
+      "repositoryFile": "image-originals/98/9865619196624a3cba32a36b0111357afea3148f123221ba8c7265bc681ab8a9.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/98/9865619196624a3cba32a36b0111357afea3148f123221ba8c7265bc681ab8a9.png"
+    },
+    {
+      "sha256": "991f73be600ad8821a6743db54af513f9b047058e95066e22fcdd1d72032bc58",
+      "originalLocalFile": "media-unique/991f73be600ad882_5D.9.png",
+      "bytes": 272,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/5D.9.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/99/991f73be600ad8821a6743db54af513f9b047058e95066e22fcdd1d72032bc58.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/99/991f73be600ad8821a6743db54af513f9b047058e95066e22fcdd1d72032bc58.png"
+    },
+    {
+      "sha256": "99c14d6855b8be296d58017d3751b8dc849c47b6d1d80ab614ff9075080e461b",
+      "originalLocalFile": "media-unique/99c14d6855b8be29_vL.9.png",
+      "bytes": 223,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/vL.9.png",
+        "Dazero APK:res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+      ],
+      "repositoryFile": "image-originals/99/99c14d6855b8be296d58017d3751b8dc849c47b6d1d80ab614ff9075080e461b.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/99/99c14d6855b8be296d58017d3751b8dc849c47b6d1d80ab614ff9075080e461b.png"
+    },
+    {
+      "sha256": "9a1a48038a8d1dc041035b49cc732db23e008d126c8b2e680749dd29616a37b3",
+      "originalLocalFile": "media-unique/9a1a48038a8d1dc0_gt.9.png",
+      "bytes": 205,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/gt.9.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/9a/9a1a48038a8d1dc041035b49cc732db23e008d126c8b2e680749dd29616a37b3.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/9a/9a1a48038a8d1dc041035b49cc732db23e008d126c8b2e680749dd29616a37b3.png"
+    },
+    {
+      "sha256": "9a9a30c305022a2f8e075d2ed7d33f5c7711bba8d0d0385511fdb62f89f208e3",
+      "originalLocalFile": "media-unique/9a9a30c305022a2f_ic_call_decline.png",
+      "bytes": 452,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "Dazero APK:res/drawable-xhdpi-v4/ic_call_decline.png",
+        "Dazero APK:res/drawable-xhdpi-v4/ic_call_decline_low.png"
+      ],
+      "repositoryFile": "image-originals/9a/9a9a30c305022a2f8e075d2ed7d33f5c7711bba8d0d0385511fdb62f89f208e3.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/9a/9a9a30c305022a2f8e075d2ed7d33f5c7711bba8d0d0385511fdb62f89f208e3.png"
+    },
+    {
+      "sha256": "9a9c940ea133f7e0ac8db6f06e13e852508633c21f8c71f297483165a06d92eb",
+      "originalLocalFile": "media-unique/9a9c940ea133f7e0_xR.9.png",
+      "bytes": 194,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/xR.9.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/9a/9a9c940ea133f7e0ac8db6f06e13e852508633c21f8c71f297483165a06d92eb.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/9a/9a9c940ea133f7e0ac8db6f06e13e852508633c21f8c71f297483165a06d92eb.png"
+    },
+    {
+      "sha256": "9d62d3eabefaf89e6018d3902cc8c4bb888a8891d9639deda8fb58ba60fe1822",
+      "originalLocalFile": "media-unique/9d62d3eabefaf89e_common_google_signin_btn_icon_dark_normal_background.9.png",
+      "bytes": 1032,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+      ],
+      "repositoryFile": "image-originals/9d/9d62d3eabefaf89e6018d3902cc8c4bb888a8891d9639deda8fb58ba60fe1822.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/9d/9d62d3eabefaf89e6018d3902cc8c4bb888a8891d9639deda8fb58ba60fe1822.png"
+    },
+    {
+      "sha256": "9f849bcd788adceb32f4c1a5aa892749bd1e244a3787bfbfbd30d3b6f5d8e9db",
+      "originalLocalFile": "media-unique/9f849bcd788adceb_h7.9.png",
+      "bytes": 1096,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/h7.9.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+      ],
+      "repositoryFile": "image-originals/9f/9f849bcd788adceb32f4c1a5aa892749bd1e244a3787bfbfbd30d3b6f5d8e9db.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/9f/9f849bcd788adceb32f4c1a5aa892749bd1e244a3787bfbfbd30d3b6f5d8e9db.png"
+    },
+    {
+      "sha256": "9f856dd00a4f281d1198e6679ac8611fc67d301f28c07aea97504244ba16cb44",
+      "originalLocalFile": "media-unique/9f856dd00a4f281d_2d.png",
+      "bytes": 145,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/2d.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+      ],
+      "repositoryFile": "image-originals/9f/9f856dd00a4f281d1198e6679ac8611fc67d301f28c07aea97504244ba16cb44.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/9f/9f856dd00a4f281d1198e6679ac8611fc67d301f28c07aea97504244ba16cb44.png"
+    },
+    {
+      "sha256": "9fd37c82f87df00464554344ddddea55e480d09c33b505ac13252036d4d6276e",
+      "originalLocalFile": "media-unique/9fd37c82f87df004_D_.9.png",
+      "bytes": 178,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/D_.9.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/9f/9fd37c82f87df00464554344ddddea55e480d09c33b505ac13252036d4d6276e.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/9f/9fd37c82f87df00464554344ddddea55e480d09c33b505ac13252036d4d6276e.png"
+    },
+    {
+      "sha256": "a04708369abe0920ded20d87d58aebf6992ebb67efefa248a8421895efc5353f",
+      "originalLocalFile": "media-unique/a04708369abe0920_JJ.9.png",
+      "bytes": 280,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/JJ.9.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/a0/a04708369abe0920ded20d87d58aebf6992ebb67efefa248a8421895efc5353f.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/a0/a04708369abe0920ded20d87d58aebf6992ebb67efefa248a8421895efc5353f.png"
+    },
+    {
+      "sha256": "a0d63ec76ec21d40fe96a4b6fb4f4aac5b61a6b63a63472dab055e0d9e9890b1",
+      "originalLocalFile": "media-unique/a0d63ec76ec21d40_EA.9.png",
+      "bytes": 200,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/EA.9.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/a0/a0d63ec76ec21d40fe96a4b6fb4f4aac5b61a6b63a63472dab055e0d9e9890b1.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/a0/a0d63ec76ec21d40fe96a4b6fb4f4aac5b61a6b63a63472dab055e0d9e9890b1.png"
+    },
+    {
+      "sha256": "a15171ead4b1cd9b80c58b93c0efb453b0cf889b714cc859ee2c9b937f4b37d0",
+      "originalLocalFile": "media-unique/a15171ead4b1cd9b_py.9.png",
+      "bytes": 217,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/py.9.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+      ],
+      "repositoryFile": "image-originals/a1/a15171ead4b1cd9b80c58b93c0efb453b0cf889b714cc859ee2c9b937f4b37d0.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/a1/a15171ead4b1cd9b80c58b93c0efb453b0cf889b714cc859ee2c9b937f4b37d0.png"
+    },
+    {
+      "sha256": "a18cdaaf3742b1a3d4f484fa15d00fa34afb21495884301aafa3213338661ed6",
+      "originalLocalFile": "media-unique/a18cdaaf3742b1a3_ic_call_decline.png",
+      "bytes": 201,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "Dazero APK:res/drawable-ldpi-v4/ic_call_decline.png",
+        "Dazero APK:res/drawable-ldpi-v4/ic_call_decline_low.png"
+      ],
+      "repositoryFile": "image-originals/a1/a18cdaaf3742b1a3d4f484fa15d00fa34afb21495884301aafa3213338661ed6.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/a1/a18cdaaf3742b1a3d4f484fa15d00fa34afb21495884301aafa3213338661ed6.png"
+    },
+    {
+      "sha256": "a2f1a37af8e699320a2fadbe54eeaa6112d5a3522d57d682edf04fe97be3b47e",
+      "originalLocalFile": "media-unique/a2f1a37af8e69932_bX.9.png",
+      "bytes": 244,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/bX.9.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
+      ],
+      "repositoryFile": "image-originals/a2/a2f1a37af8e699320a2fadbe54eeaa6112d5a3522d57d682edf04fe97be3b47e.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/a2/a2f1a37af8e699320a2fadbe54eeaa6112d5a3522d57d682edf04fe97be3b47e.png"
+    },
+    {
+      "sha256": "a475594ae7c771092a3a2718981e2710c737844f44a4401f72d3953753649a7a",
+      "originalLocalFile": "media-unique/a475594ae7c77109_5U.png",
+      "bytes": 396,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/5U.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl.png"
+      ],
+      "repositoryFile": "image-originals/a4/a475594ae7c771092a3a2718981e2710c737844f44a4401f72d3953753649a7a.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/a4/a475594ae7c771092a3a2718981e2710c737844f44a4401f72d3953753649a7a.png"
+    },
+    {
+      "sha256": "a547431febf108ccfa9588ab89b1078e387bb351eb54d772394332187f770b74",
+      "originalLocalFile": "media-unique/a547431febf108cc_zE.png",
+      "bytes": 324,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/zE.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+      ],
+      "repositoryFile": "image-originals/a5/a547431febf108ccfa9588ab89b1078e387bb351eb54d772394332187f770b74.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/a5/a547431febf108ccfa9588ab89b1078e387bb351eb54d772394332187f770b74.png"
+    },
+    {
+      "sha256": "a7523ccf037f7c31cf87a186feecb9139ef92d87e0702cabb08a31914b2b503e",
+      "originalLocalFile": "media-unique/a7523ccf037f7c31_v4.9.png",
+      "bytes": 208,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/v4.9.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
+      ],
+      "repositoryFile": "image-originals/a7/a7523ccf037f7c31cf87a186feecb9139ef92d87e0702cabb08a31914b2b503e.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/a7/a7523ccf037f7c31cf87a186feecb9139ef92d87e0702cabb08a31914b2b503e.png"
+    },
+    {
+      "sha256": "a77aaa207fd579f64383323b93f048ee9434e345ca8bb641743a77901b4383c2",
+      "originalLocalFile": "media-unique/a77aaa207fd579f6_Y7.9.png",
+      "bytes": 212,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/Y7.9.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
+      ],
+      "repositoryFile": "image-originals/a7/a77aaa207fd579f64383323b93f048ee9434e345ca8bb641743a77901b4383c2.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/a7/a77aaa207fd579f64383323b93f048ee9434e345ca8bb641743a77901b4383c2.png"
+    },
+    {
+      "sha256": "a8252f52638c80df119db031626198a4a8d4b32ee618e96c3a36b9b946e26894",
+      "originalLocalFile": "media-unique/a8252f52638c80df_Li.9.png",
+      "bytes": 1779,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/Li.9.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+      ],
+      "repositoryFile": "image-originals/a8/a8252f52638c80df119db031626198a4a8d4b32ee618e96c3a36b9b946e26894.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/a8/a8252f52638c80df119db031626198a4a8d4b32ee618e96c3a36b9b946e26894.png"
+    },
+    {
+      "sha256": "a8676a1793ac8310ffb12986232df66df092d29c242aeedc2b73556c010d38dc",
+      "originalLocalFile": "media-unique/a8676a1793ac8310_C_.9.png",
+      "bytes": 215,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/C_.9.png",
+        "Dazero APK:res/drawable-mdpi-v4/notification_bg_normal.9.png"
+      ],
+      "repositoryFile": "image-originals/a8/a8676a1793ac8310ffb12986232df66df092d29c242aeedc2b73556c010d38dc.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/a8/a8676a1793ac8310ffb12986232df66df092d29c242aeedc2b73556c010d38dc.png"
+    },
+    {
+      "sha256": "a87b2e71aaa5dbd5615b1d70d36f49f7250bd648fef86d21d6cc0a496e3eb0ff",
+      "originalLocalFile": "media-unique/a87b2e71aaa5dbd5_legend-bg.png",
+      "bytes": 318353,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO site mirror:download-assets\\legend-bg.png",
+        "ZXKO rendered detail sample:download-assets\\legend-bg.png"
+      ],
+      "repositoryFile": "image-originals/a8/a87b2e71aaa5dbd5615b1d70d36f49f7250bd648fef86d21d6cc0a496e3eb0ff.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/a8/a87b2e71aaa5dbd5615b1d70d36f49f7250bd648fef86d21d6cc0a496e3eb0ff.png"
+    },
+    {
+      "sha256": "a8c9ef100c8c88960cfc041934e21bc85bc1c15cfe780d4d6e010a698f137a29",
+      "originalLocalFile": "media-unique/a8c9ef100c8c8896_ic_os_notification_fallback_white_24dp.png",
+      "bytes": 378,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-xxhdpi-v4/ic_os_notification_fallback_white_24dp.png"
+      ],
+      "repositoryFile": "image-originals/a8/a8c9ef100c8c88960cfc041934e21bc85bc1c15cfe780d4d6e010a698f137a29.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/a8/a8c9ef100c8c88960cfc041934e21bc85bc1c15cfe780d4d6e010a698f137a29.png"
+    },
+    {
+      "sha256": "a933aaebbeae489dea84e78e7fbc4079fdfda576fbdeb339401fda6cdc03e764",
+      "originalLocalFile": "media-unique/a933aaebbeae489d_Yw.9.png",
+      "bytes": 186,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/Yw.9.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/a9/a933aaebbeae489dea84e78e7fbc4079fdfda576fbdeb339401fda6cdc03e764.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/a9/a933aaebbeae489dea84e78e7fbc4079fdfda576fbdeb339401fda6cdc03e764.png"
+    },
+    {
+      "sha256": "aa00088d0d9fd97bd92ed9ffd29b54bb69a48a984aa73448ce553fb9d812be41",
+      "originalLocalFile": "media-unique/aa00088d0d9fd97b_pu.png",
+      "bytes": 909,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "ZXKO APK:res/pu.png"
+      ],
+      "repositoryFile": "image-originals/aa/aa00088d0d9fd97bd92ed9ffd29b54bb69a48a984aa73448ce553fb9d812be41.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/aa/aa00088d0d9fd97bd92ed9ffd29b54bb69a48a984aa73448ce553fb9d812be41.png"
+    },
+    {
+      "sha256": "aa61229cd70239278109c5ebe725e72484d0252efa4902a17192366942749289",
+      "originalLocalFile": "media-unique/aa61229cd7023927_BG.9.png",
+      "bytes": 190,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/BG.9.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/aa/aa61229cd70239278109c5ebe725e72484d0252efa4902a17192366942749289.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/aa/aa61229cd70239278109c5ebe725e72484d0252efa4902a17192366942749289.png"
+    },
+    {
+      "sha256": "ab73b729bb95878120a3bdc8dc915f3aaa1d7070fc644a0de64d40941ad507ed",
+      "originalLocalFile": "media-unique/ab73b729bb958781_ic_call_decline.png",
+      "bytes": 823,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "Dazero APK:res/drawable-xxxhdpi-v4/ic_call_decline.png",
+        "Dazero APK:res/drawable-xxxhdpi-v4/ic_call_decline_low.png"
+      ],
+      "repositoryFile": "image-originals/ab/ab73b729bb95878120a3bdc8dc915f3aaa1d7070fc644a0de64d40941ad507ed.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/ab/ab73b729bb95878120a3bdc8dc915f3aaa1d7070fc644a0de64d40941ad507ed.png"
+    },
+    {
+      "sha256": "ab94afcb2bb325544c0c1103bf5109b827bf070f441faef909f856ae295a1cf0",
+      "originalLocalFile": "media-unique/ab94afcb2bb32554_G2.9.png",
+      "bytes": 1243,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/G2.9.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+      ],
+      "repositoryFile": "image-originals/ab/ab94afcb2bb325544c0c1103bf5109b827bf070f441faef909f856ae295a1cf0.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/ab/ab94afcb2bb325544c0c1103bf5109b827bf070f441faef909f856ae295a1cf0.png"
+    },
+    {
+      "sha256": "afbcaede66a97ddc9b54c4d9891c09415cb6944d79c4c1ae8440cda553963957",
+      "originalLocalFile": "media-unique/afbcaede66a97ddc_Z8.png",
+      "bytes": 420,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/Z8.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl.png"
+      ],
+      "repositoryFile": "image-originals/af/afbcaede66a97ddc9b54c4d9891c09415cb6944d79c4c1ae8440cda553963957.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/af/afbcaede66a97ddc9b54c4d9891c09415cb6944d79c4c1ae8440cda553963957.png"
+    },
+    {
+      "sha256": "b0aa010e7a885e4b7a669c16c7ba10fcd862a12dff3f142c7354778442a63fde",
+      "originalLocalFile": "media-unique/b0aa010e7a885e4b_pk.png",
+      "bytes": 275,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/pk.png",
+        "Dazero APK:res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+      ],
+      "repositoryFile": "image-originals/b0/b0aa010e7a885e4b7a669c16c7ba10fcd862a12dff3f142c7354778442a63fde.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/b0/b0aa010e7a885e4b7a669c16c7ba10fcd862a12dff3f142c7354778442a63fde.png"
+    },
+    {
+      "sha256": "b0b2dc2cae7811c124ae528d714318bb1043b59d82a640f22c47ace64c283fec",
+      "originalLocalFile": "media-unique/b0b2dc2cae7811c1_7I.9.png",
+      "bytes": 345,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/7I.9.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/b0/b0b2dc2cae7811c124ae528d714318bb1043b59d82a640f22c47ace64c283fec.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/b0/b0b2dc2cae7811c124ae528d714318bb1043b59d82a640f22c47ace64c283fec.png"
+    },
+    {
+      "sha256": "b44eeda34d7a529c2fe55719eb098fa29707caa91d18de06a7a775d6e6bcf973",
+      "originalLocalFile": "media-unique/b44eeda34d7a529c_5c.png",
+      "bytes": 138,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/5c.png",
+        "Dazero APK:res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+      ],
+      "repositoryFile": "image-originals/b4/b44eeda34d7a529c2fe55719eb098fa29707caa91d18de06a7a775d6e6bcf973.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/b4/b44eeda34d7a529c2fe55719eb098fa29707caa91d18de06a7a775d6e6bcf973.png"
+    },
+    {
+      "sha256": "b4af73e52266be570c2c163d987e64348066db311b41e7a382000529c0136c6b",
+      "originalLocalFile": "media-unique/b4af73e52266be57_MF.9.png",
+      "bytes": 2816,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/MF.9.png",
+        "Dazero APK:res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+      ],
+      "repositoryFile": "image-originals/b4/b4af73e52266be570c2c163d987e64348066db311b41e7a382000529c0136c6b.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/b4/b4af73e52266be570c2c163d987e64348066db311b41e7a382000529c0136c6b.png"
+    },
+    {
+      "sha256": "b52228a35520e2d786e962e85013fe7f7c97ffb42677f3bdabc032fbb709952a",
+      "originalLocalFile": "media-unique/b52228a35520e2d7_fM.9.png",
+      "bytes": 825,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/fM.9.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+      ],
+      "repositoryFile": "image-originals/b5/b52228a35520e2d786e962e85013fe7f7c97ffb42677f3bdabc032fbb709952a.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/b5/b52228a35520e2d786e962e85013fe7f7c97ffb42677f3bdabc032fbb709952a.png"
+    },
+    {
+      "sha256": "b5de3b58b4d2541bde4a0105f7e178b8965a7d0e4351e14cb7e95ebdb9082e74",
+      "originalLocalFile": "media-unique/b5de3b58b4d2541b_f5.png",
+      "bytes": 14037,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "ZXKO APK:res/f5.png"
+      ],
+      "repositoryFile": "image-originals/b5/b5de3b58b4d2541bde4a0105f7e178b8965a7d0e4351e14cb7e95ebdb9082e74.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/b5/b5de3b58b4d2541bde4a0105f7e178b8965a7d0e4351e14cb7e95ebdb9082e74.png"
+    },
+    {
+      "sha256": "b800fac7d2f0a75b17fad7009707ea49134919e48984e89815a9d24c0fa704d8",
+      "originalLocalFile": "media-unique/b800fac7d2f0a75b_ps.9.png",
+      "bytes": 178,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/ps.9.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/b8/b800fac7d2f0a75b17fad7009707ea49134919e48984e89815a9d24c0fa704d8.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/b8/b800fac7d2f0a75b17fad7009707ea49134919e48984e89815a9d24c0fa704d8.png"
+    },
+    {
+      "sha256": "b84a277807f8f3bb5378e6353d99d1344aee10bd9a05f47c30afe3832d9ca7f0",
+      "originalLocalFile": "media-unique/b84a277807f8f3bb_iO.png",
+      "bytes": 228,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/iO.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+      ],
+      "repositoryFile": "image-originals/b8/b84a277807f8f3bb5378e6353d99d1344aee10bd9a05f47c30afe3832d9ca7f0.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/b8/b84a277807f8f3bb5378e6353d99d1344aee10bd9a05f47c30afe3832d9ca7f0.png"
+    },
+    {
+      "sha256": "b8b26708d71b4c7a5cf5311abcdfa741fee39c9f5e1383d49ca0c677fcdb03cd",
+      "originalLocalFile": "media-unique/b8b26708d71b4c7a_lP.9.png",
+      "bytes": 194,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/lP.9.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/b8/b8b26708d71b4c7a5cf5311abcdfa741fee39c9f5e1383d49ca0c677fcdb03cd.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/b8/b8b26708d71b4c7a5cf5311abcdfa741fee39c9f5e1383d49ca0c677fcdb03cd.png"
+    },
+    {
+      "sha256": "bb30b02a5521a3b9d7fb9feda3375c99e886755fc68d9889a081af1b0d51f311",
+      "originalLocalFile": "media-unique/bb30b02a5521a3b9_o-.png",
+      "bytes": 15752,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "ZXKO APK:res/o-.png"
+      ],
+      "repositoryFile": "image-originals/bb/bb30b02a5521a3b9d7fb9feda3375c99e886755fc68d9889a081af1b0d51f311.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/bb/bb30b02a5521a3b9d7fb9feda3375c99e886755fc68d9889a081af1b0d51f311.png"
+    },
+    {
+      "sha256": "bb4b092ae69c429e9d4f7ff97c60ba10c2e443a2b0ca19a9f6c77854bf32e293",
+      "originalLocalFile": "media-unique/bb4b092ae69c429e_d5.9.png",
+      "bytes": 851,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/d5.9.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/bb/bb4b092ae69c429e9d4f7ff97c60ba10c2e443a2b0ca19a9f6c77854bf32e293.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/bb/bb4b092ae69c429e9d4f7ff97c60ba10c2e443a2b0ca19a9f6c77854bf32e293.png"
+    },
+    {
+      "sha256": "bd893783c8d2bebb167ac05a27cdaea5dfd651fe8d64bcb30c14e7b925380c79",
+      "originalLocalFile": "media-unique/bd893783c8d2bebb_gZ.9.png",
+      "bytes": 524,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/gZ.9.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/bd/bd893783c8d2bebb167ac05a27cdaea5dfd651fe8d64bcb30c14e7b925380c79.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/bd/bd893783c8d2bebb167ac05a27cdaea5dfd651fe8d64bcb30c14e7b925380c79.png"
+    },
+    {
+      "sha256": "be03693c47d3c4d4466f14a695eaccd210b61e91d808c0c4a46d6f021b598278",
+      "originalLocalFile": "media-unique/be03693c47d3c4d4_common_google_signin_btn_icon_dark_normal_background.9.png",
+      "bytes": 1510,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+      ],
+      "repositoryFile": "image-originals/be/be03693c47d3c4d4466f14a695eaccd210b61e91d808c0c4a46d6f021b598278.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/be/be03693c47d3c4d4466f14a695eaccd210b61e91d808c0c4a46d6f021b598278.png"
+    },
+    {
+      "sha256": "c0f930a722a16df986923bf419081d1090f9476a7287c8b655ab36ffc08064cb",
+      "originalLocalFile": "media-unique/c0f930a722a16df9_kJ.9.png",
+      "bytes": 208,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/kJ.9.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/c0/c0f930a722a16df986923bf419081d1090f9476a7287c8b655ab36ffc08064cb.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/c0/c0f930a722a16df986923bf419081d1090f9476a7287c8b655ab36ffc08064cb.png"
+    },
+    {
+      "sha256": "c131ab0e2eb9879bd063e736ab81313c5a4f47eaa2f4a0ec9eca93a1a150ed79",
+      "originalLocalFile": "media-unique/c131ab0e2eb9879b_Wz.png",
+      "bytes": 196,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/Wz.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+      ],
+      "repositoryFile": "image-originals/c1/c131ab0e2eb9879bd063e736ab81313c5a4f47eaa2f4a0ec9eca93a1a150ed79.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/c1/c131ab0e2eb9879bd063e736ab81313c5a4f47eaa2f4a0ec9eca93a1a150ed79.png"
+    },
+    {
+      "sha256": "c367b73a33a933429e1d57d33fcfbf243f0274e7cdba221a0b983ee15b5baca9",
+      "originalLocalFile": "media-unique/c367b73a33a93342_NA.9.png",
+      "bytes": 2505,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/NA.9.png",
+        "Dazero APK:res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+      ],
+      "repositoryFile": "image-originals/c3/c367b73a33a933429e1d57d33fcfbf243f0274e7cdba221a0b983ee15b5baca9.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/c3/c367b73a33a933429e1d57d33fcfbf243f0274e7cdba221a0b983ee15b5baca9.png"
+    },
+    {
+      "sha256": "c49dc3c8f65106aee4b622cd8f1528c304aae0b9a219b2240bc6d04296e280b9",
+      "originalLocalFile": "media-unique/c49dc3c8f65106ae_RJ.png",
+      "bytes": 10038,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "ZXKO APK:res/RJ.png"
+      ],
+      "repositoryFile": "image-originals/c4/c49dc3c8f65106aee4b622cd8f1528c304aae0b9a219b2240bc6d04296e280b9.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/c4/c49dc3c8f65106aee4b622cd8f1528c304aae0b9a219b2240bc6d04296e280b9.png"
+    },
+    {
+      "sha256": "c56ab9375b149ba1c5ee268f22b3cf6507bb47986f628391500fba38147dab28",
+      "originalLocalFile": "media-unique/c56ab9375b149ba1_nI.9.png",
+      "bytes": 207,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/nI.9.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/c5/c56ab9375b149ba1c5ee268f22b3cf6507bb47986f628391500fba38147dab28.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/c5/c56ab9375b149ba1c5ee268f22b3cf6507bb47986f628391500fba38147dab28.png"
+    },
+    {
+      "sha256": "c63a94e7136ceeef43b0ade8b49e8e1ef4d1060d584f6cb9ab58b7d6eaa16312",
+      "originalLocalFile": "media-unique/c63a94e7136ceeef_aU.9.png",
+      "bytes": 448,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/aU.9.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/c6/c63a94e7136ceeef43b0ade8b49e8e1ef4d1060d584f6cb9ab58b7d6eaa16312.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/c6/c63a94e7136ceeef43b0ade8b49e8e1ef4d1060d584f6cb9ab58b7d6eaa16312.png"
+    },
+    {
+      "sha256": "c7954e2bfbd01e5bbc9d774dd4d743d3f8a26613129fac8071b741bab3018ab0",
+      "originalLocalFile": "media-unique/c7954e2bfbd01e5b_33.9.png",
+      "bytes": 541,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/33.9.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+      ],
+      "repositoryFile": "image-originals/c7/c7954e2bfbd01e5bbc9d774dd4d743d3f8a26613129fac8071b741bab3018ab0.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/c7/c7954e2bfbd01e5bbc9d774dd4d743d3f8a26613129fac8071b741bab3018ab0.png"
+    },
+    {
+      "sha256": "c86d934a5809f32599e42143e306ed6e066b224fe1fa3f32ade1603074e5b136",
+      "originalLocalFile": "media-unique/c86d934a5809f325_uj.9.png",
+      "bytes": 196,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/uj.9.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/c8/c86d934a5809f32599e42143e306ed6e066b224fe1fa3f32ade1603074e5b136.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/c8/c86d934a5809f32599e42143e306ed6e066b224fe1fa3f32ade1603074e5b136.png"
+    },
+    {
+      "sha256": "c8825cd637e59a02500d8b7518562f0c91bef2edd971ba3e5ad0f416794d618e",
+      "originalLocalFile": "media-unique/c8825cd637e59a02_eR.png",
+      "bytes": 356,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/eR.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+      ],
+      "repositoryFile": "image-originals/c8/c8825cd637e59a02500d8b7518562f0c91bef2edd971ba3e5ad0f416794d618e.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/c8/c8825cd637e59a02500d8b7518562f0c91bef2edd971ba3e5ad0f416794d618e.png"
+    },
+    {
+      "sha256": "c8d13e5687a34d5b85018ff7a9f0f22870a297b261ff140b3ed041ce7e7f4b81",
+      "originalLocalFile": "media-unique/c8d13e5687a34d5b_X4.9.png",
+      "bytes": 187,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/X4.9.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/c8/c8d13e5687a34d5b85018ff7a9f0f22870a297b261ff140b3ed041ce7e7f4b81.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/c8/c8d13e5687a34d5b85018ff7a9f0f22870a297b261ff140b3ed041ce7e7f4b81.png"
+    },
+    {
+      "sha256": "ca48f604262f2b4ef8b100c73130efe2ad33ef8c2a2c1b3516f24f51b7b04665",
+      "originalLocalFile": "media-unique/ca48f604262f2b4e_ic_call_answer_video.png",
+      "bytes": 384,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "Dazero APK:res/drawable-xxhdpi-v4/ic_call_answer_video.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/ic_call_answer_video_low.png"
+      ],
+      "repositoryFile": "image-originals/ca/ca48f604262f2b4ef8b100c73130efe2ad33ef8c2a2c1b3516f24f51b7b04665.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/ca/ca48f604262f2b4ef8b100c73130efe2ad33ef8c2a2c1b3516f24f51b7b04665.png"
+    },
+    {
+      "sha256": "caf1e473df6702c2a6a95d738f1d6f2b73196766b504e5ff333b3c8e747e047b",
+      "originalLocalFile": "media-unique/caf1e473df6702c2_tS.png",
+      "bytes": 321,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/tS.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+      ],
+      "repositoryFile": "image-originals/ca/caf1e473df6702c2a6a95d738f1d6f2b73196766b504e5ff333b3c8e747e047b.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/ca/caf1e473df6702c2a6a95d738f1d6f2b73196766b504e5ff333b3c8e747e047b.png"
+    },
+    {
+      "sha256": "cc162d4b8c12ee329e37c8d651442f0ef0a9d1c6f88ef352e54da8dfd9a50dfe",
+      "originalLocalFile": "media-unique/cc162d4b8c12ee32_65.9.png",
+      "bytes": 235,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/65.9.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+      ],
+      "repositoryFile": "image-originals/cc/cc162d4b8c12ee329e37c8d651442f0ef0a9d1c6f88ef352e54da8dfd9a50dfe.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/cc/cc162d4b8c12ee329e37c8d651442f0ef0a9d1c6f88ef352e54da8dfd9a50dfe.png"
+    },
+    {
+      "sha256": "cd752525b938c6fe2667415e68e04b2e20a6f2cc23753057eb3bacf0dabf30ad",
+      "originalLocalFile": "media-unique/cd752525b938c6fe_ZQ.png",
+      "bytes": 5919,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "ZXKO APK:res/ZQ.png"
+      ],
+      "repositoryFile": "image-originals/cd/cd752525b938c6fe2667415e68e04b2e20a6f2cc23753057eb3bacf0dabf30ad.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/cd/cd752525b938c6fe2667415e68e04b2e20a6f2cc23753057eb3bacf0dabf30ad.png"
+    },
+    {
+      "sha256": "d19092254aa4133fba8b7795fb5db560ad5dcd16c6f79201bec31b0f1e9b608b",
+      "originalLocalFile": "media-unique/d19092254aa4133f_o_.png",
+      "bytes": 651,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/o_.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+      ],
+      "repositoryFile": "image-originals/d1/d19092254aa4133fba8b7795fb5db560ad5dcd16c6f79201bec31b0f1e9b608b.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/d1/d19092254aa4133fba8b7795fb5db560ad5dcd16c6f79201bec31b0f1e9b608b.png"
+    },
+    {
+      "sha256": "d27af435101ca4cbec0c840bd30687918cd39eb83aab1487420855623a45998b",
+      "originalLocalFile": "media-unique/d27af435101ca4cb_Ma.9.png",
+      "bytes": 247,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/Ma.9.png",
+        "Dazero APK:res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+      ],
+      "repositoryFile": "image-originals/d2/d27af435101ca4cbec0c840bd30687918cd39eb83aab1487420855623a45998b.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/d2/d27af435101ca4cbec0c840bd30687918cd39eb83aab1487420855623a45998b.png"
+    },
+    {
+      "sha256": "d4d2b0dbb039f1c6395183abe945b39470ad9a8a7b680a40fa790df6c645bb43",
+      "originalLocalFile": "media-unique/d4d2b0dbb039f1c6_mm.9.png",
+      "bytes": 345,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/mm.9.png",
+        "Dazero APK:res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/d4/d4d2b0dbb039f1c6395183abe945b39470ad9a8a7b680a40fa790df6c645bb43.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/d4/d4d2b0dbb039f1c6395183abe945b39470ad9a8a7b680a40fa790df6c645bb43.png"
+    },
+    {
+      "sha256": "d5c644b00ee79bd4f1fcb789ebbf89e79c0c6fea878dfbc4a8c64c3be34b5b03",
+      "originalLocalFile": "media-unique/d5c644b00ee79bd4_hh.9.png",
+      "bytes": 212,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/hh.9.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
+      ],
+      "repositoryFile": "image-originals/d5/d5c644b00ee79bd4f1fcb789ebbf89e79c0c6fea878dfbc4a8c64c3be34b5b03.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/d5/d5c644b00ee79bd4f1fcb789ebbf89e79c0c6fea878dfbc4a8c64c3be34b5b03.png"
+    },
+    {
+      "sha256": "d66f7061c274b1b6f8524993367af902737ddf9187db0cc8d91a8c64ad9b944a",
+      "originalLocalFile": "media-unique/d66f7061c274b1b6_common_google_signin_btn_text_dark_normal_background.9.png",
+      "bytes": 960,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+      ],
+      "repositoryFile": "image-originals/d6/d66f7061c274b1b6f8524993367af902737ddf9187db0cc8d91a8c64ad9b944a.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/d6/d66f7061c274b1b6f8524993367af902737ddf9187db0cc8d91a8c64ad9b944a.png"
+    },
+    {
+      "sha256": "d68d03967fb222f7e35772a2e0637f73b4dd0d6cbb9ee3f2b4432d2f90c257db",
+      "originalLocalFile": "media-unique/d68d03967fb222f7_gj.9.png",
+      "bytes": 237,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/gj.9.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/d6/d68d03967fb222f7e35772a2e0637f73b4dd0d6cbb9ee3f2b4432d2f90c257db.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/d6/d68d03967fb222f7e35772a2e0637f73b4dd0d6cbb9ee3f2b4432d2f90c257db.png"
+    },
+    {
+      "sha256": "d6a0c63ba1445e790ff15134f588a04fe8e2281b86199255e004d089e7cbccc0",
+      "originalLocalFile": "media-unique/d6a0c63ba1445e79_ic_os_notification_fallback_white_24dp.png",
+      "bytes": 177,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-mdpi-v4/ic_os_notification_fallback_white_24dp.png"
+      ],
+      "repositoryFile": "image-originals/d6/d6a0c63ba1445e790ff15134f588a04fe8e2281b86199255e004d089e7cbccc0.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/d6/d6a0c63ba1445e790ff15134f588a04fe8e2281b86199255e004d089e7cbccc0.png"
+    },
+    {
+      "sha256": "d83543f0c82b62cf499f2618ad99431f9ef50da60b415980ec8e0e50b90e3893",
+      "originalLocalFile": "media-unique/d83543f0c82b62cf_MQ.png",
+      "bytes": 513,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/MQ.png",
+        "Dazero APK:res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl.png"
+      ],
+      "repositoryFile": "image-originals/d8/d83543f0c82b62cf499f2618ad99431f9ef50da60b415980ec8e0e50b90e3893.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/d8/d83543f0c82b62cf499f2618ad99431f9ef50da60b415980ec8e0e50b90e3893.png"
+    },
+    {
+      "sha256": "d84df76692bf23f2c6547848f28752cb86a359797de328396e7ee099a5dfbf7b",
+      "originalLocalFile": "media-unique/d84df76692bf23f2_jq.png",
+      "bytes": 9613,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "ZXKO APK:res/jq.png"
+      ],
+      "repositoryFile": "image-originals/d8/d84df76692bf23f2c6547848f28752cb86a359797de328396e7ee099a5dfbf7b.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/d8/d84df76692bf23f2c6547848f28752cb86a359797de328396e7ee099a5dfbf7b.png"
+    },
+    {
+      "sha256": "dbab7d61c4489d6b7930d4a97ed62dd194f3bb673b042fc15c7dbb9b14a2c64f",
+      "originalLocalFile": "media-unique/dbab7d61c4489d6b_ic_os_notification_fallback_white_24dp.png",
+      "bytes": 234,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-hdpi-v4/ic_os_notification_fallback_white_24dp.png"
+      ],
+      "repositoryFile": "image-originals/db/dbab7d61c4489d6b7930d4a97ed62dd194f3bb673b042fc15c7dbb9b14a2c64f.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/db/dbab7d61c4489d6b7930d4a97ed62dd194f3bb673b042fc15c7dbb9b14a2c64f.png"
+    },
+    {
+      "sha256": "dbc0af61f440bb3f5382b8ea3fa578659f76c7a6aef620a68afc43a909f2e0e5",
+      "originalLocalFile": "media-unique/dbc0af61f440bb3f_SV.9.png",
+      "bytes": 211,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/SV.9.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
+      ],
+      "repositoryFile": "image-originals/db/dbc0af61f440bb3f5382b8ea3fa578659f76c7a6aef620a68afc43a909f2e0e5.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/db/dbc0af61f440bb3f5382b8ea3fa578659f76c7a6aef620a68afc43a909f2e0e5.png"
+    },
+    {
+      "sha256": "dc08af9d14e6b673bf9f31c248236f0457b322464036647473e3a32a23773f0e",
+      "originalLocalFile": "media-unique/dc08af9d14e6b673_ly.png",
+      "bytes": 272,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/ly.png",
+        "Dazero APK:res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+      ],
+      "repositoryFile": "image-originals/dc/dc08af9d14e6b673bf9f31c248236f0457b322464036647473e3a32a23773f0e.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/dc/dc08af9d14e6b673bf9f31c248236f0457b322464036647473e3a32a23773f0e.png"
+    },
+    {
+      "sha256": "dc9a0ae125491ccdac95b57b5eee4060efd191294e171c8e369d7d0ec3ab2268",
+      "originalLocalFile": "media-unique/dc9a0ae125491ccd_common_google_signin_btn_text_light_normal_background.9.png",
+      "bytes": 694,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+      ],
+      "repositoryFile": "image-originals/dc/dc9a0ae125491ccdac95b57b5eee4060efd191294e171c8e369d7d0ec3ab2268.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/dc/dc9a0ae125491ccdac95b57b5eee4060efd191294e171c8e369d7d0ec3ab2268.png"
+    },
+    {
+      "sha256": "e17761ed280edd93d7141bd504b70f9e9e15a8652288d9e6333bf4ce964ef844",
+      "originalLocalFile": "media-unique/e17761ed280edd93_U-.9.png",
+      "bytes": 223,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/U-.9.png",
+        "Dazero APK:res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+      ],
+      "repositoryFile": "image-originals/e1/e17761ed280edd93d7141bd504b70f9e9e15a8652288d9e6333bf4ce964ef844.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/e1/e17761ed280edd93d7141bd504b70f9e9e15a8652288d9e6333bf4ce964ef844.png"
+    },
+    {
+      "sha256": "e1a2b864d0114a8471662f8e30ffcbb2eb9ffd414d36239612def8c7792a450a",
+      "originalLocalFile": "media-unique/e1a2b864d0114a84_1I.9.png",
+      "bytes": 2305,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/1I.9.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+      ],
+      "repositoryFile": "image-originals/e1/e1a2b864d0114a8471662f8e30ffcbb2eb9ffd414d36239612def8c7792a450a.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/e1/e1a2b864d0114a8471662f8e30ffcbb2eb9ffd414d36239612def8c7792a450a.png"
+    },
+    {
+      "sha256": "e3219aaef8621eab9bf5fe16c0b5e53fb8b77bef7e63723ae607ab1036f874bc",
+      "originalLocalFile": "media-unique/e3219aaef8621eab_8c.png",
+      "bytes": 4548,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "ZXKO APK:res/8c.png"
+      ],
+      "repositoryFile": "image-originals/e3/e3219aaef8621eab9bf5fe16c0b5e53fb8b77bef7e63723ae607ab1036f874bc.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/e3/e3219aaef8621eab9bf5fe16c0b5e53fb8b77bef7e63723ae607ab1036f874bc.png"
+    },
+    {
+      "sha256": "e64c2e57627e24ec1ed37e67344c2bf31d1d6bdd2d8d715840c1edf0bd1425b6",
+      "originalLocalFile": "media-unique/e64c2e57627e24ec_ic_call_answer.png",
+      "bytes": 623,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "Dazero APK:res/drawable-xhdpi-v4/ic_call_answer.png",
+        "Dazero APK:res/drawable-xhdpi-v4/ic_call_answer_low.png"
+      ],
+      "repositoryFile": "image-originals/e6/e64c2e57627e24ec1ed37e67344c2bf31d1d6bdd2d8d715840c1edf0bd1425b6.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/e6/e64c2e57627e24ec1ed37e67344c2bf31d1d6bdd2d8d715840c1edf0bd1425b6.png"
+    },
+    {
+      "sha256": "e7e36c3cbcedc97bc28aff91ed72c4310b16c331713a1698a692c66d46f63227",
+      "originalLocalFile": "media-unique/e7e36c3cbcedc97b_Gt.9.png",
+      "bytes": 202,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/Gt.9.png",
+        "Dazero APK:res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/e7/e7e36c3cbcedc97bc28aff91ed72c4310b16c331713a1698a692c66d46f63227.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/e7/e7e36c3cbcedc97bc28aff91ed72c4310b16c331713a1698a692c66d46f63227.png"
+    },
+    {
+      "sha256": "e816dc0998f4ee90d7b630f17e16fcc2e72d91078c5315adaac4bc2da4c226d7",
+      "originalLocalFile": "media-unique/e816dc0998f4ee90_common_full_open_on_phone.png",
+      "bytes": 489,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+      ],
+      "repositoryFile": "image-originals/e8/e816dc0998f4ee90d7b630f17e16fcc2e72d91078c5315adaac4bc2da4c226d7.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/e8/e816dc0998f4ee90d7b630f17e16fcc2e72d91078c5315adaac4bc2da4c226d7.png"
+    },
+    {
+      "sha256": "e8e2fecfbf111cc5ef65dbb6c7395a5ae16a68f7e0922738d0c802b26e866e49",
+      "originalLocalFile": "media-unique/e8e2fecfbf111cc5_common_full_open_on_phone.png",
+      "bytes": 681,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-hdpi-v4/common_full_open_on_phone.png"
+      ],
+      "repositoryFile": "image-originals/e8/e8e2fecfbf111cc5ef65dbb6c7395a5ae16a68f7e0922738d0c802b26e866e49.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/e8/e8e2fecfbf111cc5ef65dbb6c7395a5ae16a68f7e0922738d0c802b26e866e49.png"
+    },
+    {
+      "sha256": "e98f192f013a9226010482ab8e14c7f215fb16bda3ccb0ddaec3ed0b27119e7c",
+      "originalLocalFile": "media-unique/e98f192f013a9226_8h.9.png",
+      "bytes": 207,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/8h.9.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
+      ],
+      "repositoryFile": "image-originals/e9/e98f192f013a9226010482ab8e14c7f215fb16bda3ccb0ddaec3ed0b27119e7c.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/e9/e98f192f013a9226010482ab8e14c7f215fb16bda3ccb0ddaec3ed0b27119e7c.png"
+    },
+    {
+      "sha256": "ec698a3217bce74d8bc4a44bb008f2dbd3d1aebff1af1e9641805143dbf9fa87",
+      "originalLocalFile": "media-unique/ec698a3217bce74d_ic_call_answer.png",
+      "bytes": 1171,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "Dazero APK:res/drawable-xxxhdpi-v4/ic_call_answer.png",
+        "Dazero APK:res/drawable-xxxhdpi-v4/ic_call_answer_low.png"
+      ],
+      "repositoryFile": "image-originals/ec/ec698a3217bce74d8bc4a44bb008f2dbd3d1aebff1af1e9641805143dbf9fa87.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/ec/ec698a3217bce74d8bc4a44bb008f2dbd3d1aebff1af1e9641805143dbf9fa87.png"
+    },
+    {
+      "sha256": "ee9b1ccc99fc31db4e4e156a85a9d839f521f7f294e49ccc7f659349aa6259dd",
+      "originalLocalFile": "media-unique/ee9b1ccc99fc31db_zx-logo-nobg.png",
+      "bytes": 36816,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO site mirror:images\\zx-logo-nobg.png",
+        "ZXKO rendered detail sample:images\\zx-logo-nobg.png"
+      ],
+      "repositoryFile": "image-originals/ee/ee9b1ccc99fc31db4e4e156a85a9d839f521f7f294e49ccc7f659349aa6259dd.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/ee/ee9b1ccc99fc31db4e4e156a85a9d839f521f7f294e49ccc7f659349aa6259dd.png"
+    },
+    {
+      "sha256": "f040bad272fff9d3ce3d19e0d1ec7e89d9752fad85581649a7c8343fc39d30db",
+      "originalLocalFile": "media-unique/f040bad272fff9d3_5p.png",
+      "bytes": 23762,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "ZXKO APK:res/5p.png"
+      ],
+      "repositoryFile": "image-originals/f0/f040bad272fff9d3ce3d19e0d1ec7e89d9752fad85581649a7c8343fc39d30db.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/f0/f040bad272fff9d3ce3d19e0d1ec7e89d9752fad85581649a7c8343fc39d30db.png"
+    },
+    {
+      "sha256": "f221f962a62c954a11b1734e9631fc8531e34bee557665fea864aa4386e25e39",
+      "originalLocalFile": "media-unique/f221f962a62c954a_googleg_standard_color_18.png",
+      "bytes": 808,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-hdpi-v4/googleg_standard_color_18.png"
+      ],
+      "repositoryFile": "image-originals/f2/f221f962a62c954a11b1734e9631fc8531e34bee557665fea864aa4386e25e39.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/f2/f221f962a62c954a11b1734e9631fc8531e34bee557665fea864aa4386e25e39.png"
+    },
+    {
+      "sha256": "f232714ccbecca97adc63b0811d62629057c77dcbd0b062c82e26754cb744831",
+      "originalLocalFile": "media-unique/f232714ccbecca97_yY.9.png",
+      "bytes": 186,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/yY.9.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/f2/f232714ccbecca97adc63b0811d62629057c77dcbd0b062c82e26754cb744831.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/f2/f232714ccbecca97adc63b0811d62629057c77dcbd0b062c82e26754cb744831.png"
+    },
+    {
+      "sha256": "f2ff62f473d8a5e00a8b6c81c15be9a0536471c3d5a81e37d04bc3356ea81ca0",
+      "originalLocalFile": "media-unique/f2ff62f473d8a5e0_ic_call_answer.png",
+      "bytes": 317,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "Dazero APK:res/drawable-mdpi-v4/ic_call_answer.png",
+        "Dazero APK:res/drawable-mdpi-v4/ic_call_answer_low.png"
+      ],
+      "repositoryFile": "image-originals/f2/f2ff62f473d8a5e00a8b6c81c15be9a0536471c3d5a81e37d04bc3356ea81ca0.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/f2/f2ff62f473d8a5e00a8b6c81c15be9a0536471c3d5a81e37d04bc3356ea81ca0.png"
+    },
+    {
+      "sha256": "f42c0f9c5486cdec16b4361843a16198e9c1d13473a926d9a7ad8bbe93fc5e0b",
+      "originalLocalFile": "media-unique/f42c0f9c5486cdec_no-internet-hint.png",
+      "bytes": 7905,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO site mirror:no-internet-hint.png",
+        "ZXKO rendered detail sample:no-internet-hint.png"
+      ],
+      "repositoryFile": "image-originals/f4/f42c0f9c5486cdec16b4361843a16198e9c1d13473a926d9a7ad8bbe93fc5e0b.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/f4/f42c0f9c5486cdec16b4361843a16198e9c1d13473a926d9a7ad8bbe93fc5e0b.png"
+    },
+    {
+      "sha256": "f5f349c1e949f0e66374f83b667fc0d0f477379614f36912ade22a299f2194d5",
+      "originalLocalFile": "media-unique/f5f349c1e949f0e6_kp.png",
+      "bytes": 224,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/kp.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+      ],
+      "repositoryFile": "image-originals/f5/f5f349c1e949f0e66374f83b667fc0d0f477379614f36912ade22a299f2194d5.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/f5/f5f349c1e949f0e66374f83b667fc0d0f477379614f36912ade22a299f2194d5.png"
+    },
+    {
+      "sha256": "f62bf21d152a276ae8d9a0d62997f12c60d64ec812fd973ff60e3295deee34b4",
+      "originalLocalFile": "media-unique/f62bf21d152a276a_common_google_signin_btn_icon_light_normal_background.9.png",
+      "bytes": 776,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+      ],
+      "repositoryFile": "image-originals/f6/f62bf21d152a276ae8d9a0d62997f12c60d64ec812fd973ff60e3295deee34b4.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/f6/f62bf21d152a276ae8d9a0d62997f12c60d64ec812fd973ff60e3295deee34b4.png"
+    },
+    {
+      "sha256": "f62d7aa1f9297302a43332a59834755edbd3a38670b8c523614ae1366b5f947f",
+      "originalLocalFile": "media-unique/f62d7aa1f9297302_i6.9.png",
+      "bytes": 186,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/i6.9.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/f6/f62d7aa1f9297302a43332a59834755edbd3a38670b8c523614ae1366b5f947f.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/f6/f62d7aa1f9297302a43332a59834755edbd3a38670b8c523614ae1366b5f947f.png"
+    },
+    {
+      "sha256": "f65a87efa2f53d6fe2d848cfca1f6c90aea5e9fc67ff47f5949a6dd2a76ebe1b",
+      "originalLocalFile": "media-unique/f65a87efa2f53d6f_BL.9.png",
+      "bytes": 229,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/BL.9.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/f6/f65a87efa2f53d6fe2d848cfca1f6c90aea5e9fc67ff47f5949a6dd2a76ebe1b.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/f6/f65a87efa2f53d6fe2d848cfca1f6c90aea5e9fc67ff47f5949a6dd2a76ebe1b.png"
+    },
+    {
+      "sha256": "f73508090d3e6bbc3e39ba768e71855aad52ecaaaccda676d43a1860010cc557",
+      "originalLocalFile": "media-unique/f73508090d3e6bbc_googleg_disabled_color_18.png",
+      "bytes": 410,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+      ],
+      "repositoryFile": "image-originals/f7/f73508090d3e6bbc3e39ba768e71855aad52ecaaaccda676d43a1860010cc557.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/f7/f73508090d3e6bbc3e39ba768e71855aad52ecaaaccda676d43a1860010cc557.png"
+    },
+    {
+      "sha256": "f81412c5131046a83f5d9de1d10e2b4b31f6e2657c4c08743825cd40f605fdd3",
+      "originalLocalFile": "media-unique/f81412c5131046a8_op.9.png",
+      "bytes": 286,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/op.9.png",
+        "Dazero APK:res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/f8/f81412c5131046a83f5d9de1d10e2b4b31f6e2657c4c08743825cd40f605fdd3.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/f8/f81412c5131046a83f5d9de1d10e2b4b31f6e2657c4c08743825cd40f605fdd3.png"
+    },
+    {
+      "sha256": "f94e2129180c0ba6924430374402456035dcd6b6fff7d05f6de7e24196a3af35",
+      "originalLocalFile": "media-unique/f94e2129180c0ba6_0c.9.png",
+      "bytes": 267,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/0c.9.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/f9/f94e2129180c0ba6924430374402456035dcd6b6fff7d05f6de7e24196a3af35.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/f9/f94e2129180c0ba6924430374402456035dcd6b6fff7d05f6de7e24196a3af35.png"
+    },
+    {
+      "sha256": "fa50162bdb3501c6b50cfa36c14dab9c94e48d57f558607ec9858124d70412f9",
+      "originalLocalFile": "media-unique/fa50162bdb3501c6_vz.9.png",
+      "bytes": 181,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/vz.9.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/fa/fa50162bdb3501c6b50cfa36c14dab9c94e48d57f558607ec9858124d70412f9.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/fa/fa50162bdb3501c6b50cfa36c14dab9c94e48d57f558607ec9858124d70412f9.png"
+    },
+    {
+      "sha256": "fb71e11c090133a97fe84fa3b76a263b429c9032ec467854b0e32a3157a5eba5",
+      "originalLocalFile": "media-unique/fb71e11c090133a9_K_.9.png",
+      "bytes": 216,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/K_.9.png",
+        "Dazero APK:res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+      ],
+      "repositoryFile": "image-originals/fb/fb71e11c090133a97fe84fa3b76a263b429c9032ec467854b0e32a3157a5eba5.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/fb/fb71e11c090133a97fe84fa3b76a263b429c9032ec467854b0e32a3157a5eba5.png"
+    },
+    {
+      "sha256": "fcb4416a4f5f5b4d72854d91722289789b30bb562c6f0f57975818ab555cc809",
+      "originalLocalFile": "media-unique/fcb4416a4f5f5b4d_common_google_signin_btn_text_dark_normal_background.9.png",
+      "bytes": 1086,
+      "extension": ".png",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+      ],
+      "repositoryFile": "image-originals/fc/fcb4416a4f5f5b4d72854d91722289789b30bb562c6f0f57975818ab555cc809.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/fc/fcb4416a4f5f5b4d72854d91722289789b30bb562c6f0f57975818ab555cc809.png"
+    },
+    {
+      "sha256": "fd719e497aaf091c3166cb51bf4404ca4bc3b6545dfbefbfaa0cf31f0790b7d1",
+      "originalLocalFile": "media-unique/fd719e497aaf091c_jS.9.png",
+      "bytes": 236,
+      "extension": ".png",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO APK:res/jS.9.png",
+        "Dazero APK:res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+      ],
+      "repositoryFile": "image-originals/fd/fd719e497aaf091c3166cb51bf4404ca4bc3b6545dfbefbfaa0cf31f0790b7d1.png",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/fd/fd719e497aaf091c3166cb51bf4404ca4bc3b6545dfbefbfaa0cf31f0790b7d1.png"
+    },
+    {
+      "sha256": "2ea630239627890050830e1e4cb68962f97f7622b900f94d6d26f1950338adb6",
+      "originalLocalFile": "media-unique/2ea6302396278900_ic_launcher_round.webp",
+      "bytes": 3724,
+      "extension": ".webp",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/mipmap-mdpi-v4/ic_launcher_round.webp"
+      ],
+      "repositoryFile": "image-originals/2e/2ea630239627890050830e1e4cb68962f97f7622b900f94d6d26f1950338adb6.webp",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/2e/2ea630239627890050830e1e4cb68962f97f7622b900f94d6d26f1950338adb6.webp"
+    },
+    {
+      "sha256": "3790a28ec81213a4e96f591ba88dbd18ed55b99354ae9f09a3977a12933a8755",
+      "originalLocalFile": "media-unique/3790a28ec81213a4_ic_launcher.webp",
+      "bytes": 2812,
+      "extension": ".webp",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/mipmap-mdpi-v4/ic_launcher.webp"
+      ],
+      "repositoryFile": "image-originals/37/3790a28ec81213a4e96f591ba88dbd18ed55b99354ae9f09a3977a12933a8755.webp",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/37/3790a28ec81213a4e96f591ba88dbd18ed55b99354ae9f09a3977a12933a8755.webp"
+    },
+    {
+      "sha256": "449ef96751290d624ff06b985f9f77687286c73e704fc8083065b986c022f21b",
+      "originalLocalFile": "media-unique/449ef96751290d62_skins-category.webp",
+      "bytes": 3314,
+      "extension": ".webp",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO site mirror:images\\minecraft\\skins-category.webp",
+        "ZXKO rendered detail sample:images\\minecraft\\skins-category.webp"
+      ],
+      "repositoryFile": "image-originals/44/449ef96751290d624ff06b985f9f77687286c73e704fc8083065b986c022f21b.webp",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/44/449ef96751290d624ff06b985f9f77687286c73e704fc8083065b986c022f21b.webp"
+    },
+    {
+      "sha256": "4d13a394af6f2a8cec8d340edf0f9179d5a46b2ad9247a56e2842ddad8d28d76",
+      "originalLocalFile": "media-unique/4d13a394af6f2a8c_hero-darkfantasy-thumb.webp",
+      "bytes": 164234,
+      "extension": ".webp",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO site mirror:hero-darkfantasy-thumb.webp",
+        "ZXKO rendered detail sample:hero-darkfantasy-thumb.webp"
+      ],
+      "repositoryFile": "image-originals/4d/4d13a394af6f2a8cec8d340edf0f9179d5a46b2ad9247a56e2842ddad8d28d76.webp",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/4d/4d13a394af6f2a8cec8d340edf0f9179d5a46b2ad9247a56e2842ddad8d28d76.webp"
+    },
+    {
+      "sha256": "57b7bfebf8430da46b4b184efe23792e8f78a7e23383380b0396358ed8d20563",
+      "originalLocalFile": "media-unique/57b7bfebf8430da4_ic_launcher_round.webp",
+      "bytes": 6614,
+      "extension": ".webp",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/mipmap-hdpi-v4/ic_launcher_round.webp"
+      ],
+      "repositoryFile": "image-originals/57/57b7bfebf8430da46b4b184efe23792e8f78a7e23383380b0396358ed8d20563.webp",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/57/57b7bfebf8430da46b4b184efe23792e8f78a7e23383380b0396358ed8d20563.webp"
+    },
+    {
+      "sha256": "6196d308d7c6efab5b8478841792b38723e5e7d44bf14ac68a206dd8b2c8b400",
+      "originalLocalFile": "media-unique/6196d308d7c6efab_villager-news-square.webp",
+      "bytes": 12788,
+      "extension": ".webp",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO site mirror:images\\minecraft\\villager-news-square.webp",
+        "ZXKO rendered detail sample:images\\minecraft\\villager-news-square.webp"
+      ],
+      "repositoryFile": "image-originals/61/6196d308d7c6efab5b8478841792b38723e5e7d44bf14ac68a206dd8b2c8b400.webp",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/61/6196d308d7c6efab5b8478841792b38723e5e7d44bf14ac68a206dd8b2c8b400.webp"
+    },
+    {
+      "sha256": "6e3932cad77fb5ae6bbb0668526b44c9d8fd5dc97731d375689bb85cac5be1c4",
+      "originalLocalFile": "media-unique/6e3932cad77fb5ae_ic_launcher_foreground.webp",
+      "bytes": 32972,
+      "extension": ".webp",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/mipmap-xxhdpi-v4/ic_launcher_foreground.webp"
+      ],
+      "repositoryFile": "image-originals/6e/6e3932cad77fb5ae6bbb0668526b44c9d8fd5dc97731d375689bb85cac5be1c4.webp",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/6e/6e3932cad77fb5ae6bbb0668526b44c9d8fd5dc97731d375689bb85cac5be1c4.webp"
+    },
+    {
+      "sha256": "70e4152fac72c927f494fcdc3a6a15c7972fb5cdfeaf06b2504b72b8ac8dd829",
+      "originalLocalFile": "media-unique/70e4152fac72c927_ic_launcher_foreground.webp",
+      "bytes": 17556,
+      "extension": ".webp",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/mipmap-xhdpi-v4/ic_launcher_foreground.webp"
+      ],
+      "repositoryFile": "image-originals/70/70e4152fac72c927f494fcdc3a6a15c7972fb5cdfeaf06b2504b72b8ac8dd829.webp",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/70/70e4152fac72c927f494fcdc3a6a15c7972fb5cdfeaf06b2504b72b8ac8dd829.webp"
+    },
+    {
+      "sha256": "7139b52147b80d967aca13af62bc9f9d3a29a95d3ec9000850044a38b4e71c72",
+      "originalLocalFile": "media-unique/7139b52147b80d96_zxko-og-preview.webp",
+      "bytes": 120966,
+      "extension": ".webp",
+      "duplicateCount": 1,
+      "sources": [
+        "ZXKO site mirror:zxko-og-preview.webp"
+      ],
+      "repositoryFile": "image-originals/71/7139b52147b80d967aca13af62bc9f9d3a29a95d3ec9000850044a38b4e71c72.webp",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/71/7139b52147b80d967aca13af62bc9f9d3a29a95d3ec9000850044a38b4e71c72.webp"
+    },
+    {
+      "sha256": "74c0505e5d4118dfd17aa552f0de85e65e6fee2f128bd23cd197651a7bec8033",
+      "originalLocalFile": "media-unique/74c0505e5d4118df_signin-bg.webp",
+      "bytes": 266724,
+      "extension": ".webp",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO site mirror:signin-bg.webp",
+        "ZXKO rendered detail sample:signin-bg.webp"
+      ],
+      "repositoryFile": "image-originals/74/74c0505e5d4118dfd17aa552f0de85e65e6fee2f128bd23cd197651a7bec8033.webp",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/74/74c0505e5d4118dfd17aa552f0de85e65e6fee2f128bd23cd197651a7bec8033.webp"
+    },
+    {
+      "sha256": "77cb81102df48392c1bdbb978a40c50d9fa91aaed35207debeba60a8e797d9d6",
+      "originalLocalFile": "media-unique/77cb81102df48392_world-category.webp",
+      "bytes": 9896,
+      "extension": ".webp",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO site mirror:images\\minecraft\\world-category.webp",
+        "ZXKO rendered detail sample:images\\minecraft\\world-category.webp"
+      ],
+      "repositoryFile": "image-originals/77/77cb81102df48392c1bdbb978a40c50d9fa91aaed35207debeba60a8e797d9d6.webp",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/77/77cb81102df48392c1bdbb978a40c50d9fa91aaed35207debeba60a8e797d9d6.webp"
+    },
+    {
+      "sha256": "782c7f10b35ae31323d3280274dbfe1d1927f0854dbe4cfd12ea7a9579a71196",
+      "originalLocalFile": "media-unique/782c7f10b35ae313_ic_launcher_foreground.webp",
+      "bytes": 11270,
+      "extension": ".webp",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/mipmap-hdpi-v4/ic_launcher_foreground.webp"
+      ],
+      "repositoryFile": "image-originals/78/782c7f10b35ae31323d3280274dbfe1d1927f0854dbe4cfd12ea7a9579a71196.webp",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/78/782c7f10b35ae31323d3280274dbfe1d1927f0854dbe4cfd12ea7a9579a71196.webp"
+    },
+    {
+      "sha256": "7b9e6a194f947e4a02c8b478a4157f547666865f02fe1bcaeb2dc6e48fbbdd71",
+      "originalLocalFile": "media-unique/7b9e6a194f947e4a_ic_launcher_round.webp",
+      "bytes": 10126,
+      "extension": ".webp",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/mipmap-xhdpi-v4/ic_launcher_round.webp"
+      ],
+      "repositoryFile": "image-originals/7b/7b9e6a194f947e4a02c8b478a4157f547666865f02fe1bcaeb2dc6e48fbbdd71.webp",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/7b/7b9e6a194f947e4a02c8b478a4157f547666865f02fe1bcaeb2dc6e48fbbdd71.webp"
+    },
+    {
+      "sha256": "7d4db1a0b772dfc23ac616ffceedcc6f103e8bf24bd31609cefff6131b022ae2",
+      "originalLocalFile": "media-unique/7d4db1a0b772dfc2_hero-rlcraft-thumb.webp",
+      "bytes": 153082,
+      "extension": ".webp",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO site mirror:hero-rlcraft-thumb.webp",
+        "ZXKO rendered detail sample:hero-rlcraft-thumb.webp"
+      ],
+      "repositoryFile": "image-originals/7d/7d4db1a0b772dfc23ac616ffceedcc6f103e8bf24bd31609cefff6131b022ae2.webp",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/7d/7d4db1a0b772dfc23ac616ffceedcc6f103e8bf24bd31609cefff6131b022ae2.webp"
+    },
+    {
+      "sha256": "81c5b333354bfe7070b481eca1588221455fa5837594b0cb925381c4f2228f13",
+      "originalLocalFile": "media-unique/81c5b333354bfe70_textures-category.webp",
+      "bytes": 10288,
+      "extension": ".webp",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO site mirror:images\\minecraft\\textures-category.webp",
+        "ZXKO rendered detail sample:images\\minecraft\\textures-category.webp"
+      ],
+      "repositoryFile": "image-originals/81/81c5b333354bfe7070b481eca1588221455fa5837594b0cb925381c4f2228f13.webp",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/81/81c5b333354bfe7070b481eca1588221455fa5837594b0cb925381c4f2228f13.webp"
+    },
+    {
+      "sha256": "8524b13de55c240fc444ad4ddae5a4a62c1ed5f6bbf54aeb235af13be58c5add",
+      "originalLocalFile": "media-unique/8524b13de55c240f_ic_launcher.webp",
+      "bytes": 20726,
+      "extension": ".webp",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/mipmap-xxxhdpi-v4/ic_launcher.webp"
+      ],
+      "repositoryFile": "image-originals/85/8524b13de55c240fc444ad4ddae5a4a62c1ed5f6bbf54aeb235af13be58c5add.webp",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/85/8524b13de55c240fc444ad4ddae5a4a62c1ed5f6bbf54aeb235af13be58c5add.webp"
+    },
+    {
+      "sha256": "89c372538782a6292ee798020146057a88ded797384b9ea8d91e266390f04636",
+      "originalLocalFile": "media-unique/89c372538782a629_ic_launcher.webp",
+      "bytes": 4630,
+      "extension": ".webp",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/mipmap-hdpi-v4/ic_launcher.webp"
+      ],
+      "repositoryFile": "image-originals/89/89c372538782a6292ee798020146057a88ded797384b9ea8d91e266390f04636.webp",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/89/89c372538782a6292ee798020146057a88ded797384b9ea8d91e266390f04636.webp"
+    },
+    {
+      "sha256": "8bd493616da7f9746999e207b5a84d34a3e85bccce6b58e9d6f86e78d32ed42e",
+      "originalLocalFile": "media-unique/8bd493616da7f974_ic_launcher_foreground.webp",
+      "bytes": 52950,
+      "extension": ".webp",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/mipmap-xxxhdpi-v4/ic_launcher_foreground.webp"
+      ],
+      "repositoryFile": "image-originals/8b/8bd493616da7f9746999e207b5a84d34a3e85bccce6b58e9d6f86e78d32ed42e.webp",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/8b/8bd493616da7f9746999e207b5a84d34a3e85bccce6b58e9d6f86e78d32ed42e.webp"
+    },
+    {
+      "sha256": "99b52218e2b9898002de9e24fa1a0038f0310b1d14dc725ff817294de1b44738",
+      "originalLocalFile": "media-unique/99b52218e2b98980_ic_launcher.webp",
+      "bytes": 13304,
+      "extension": ".webp",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/mipmap-xxhdpi-v4/ic_launcher.webp"
+      ],
+      "repositoryFile": "image-originals/99/99b52218e2b9898002de9e24fa1a0038f0310b1d14dc725ff817294de1b44738.webp",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/99/99b52218e2b9898002de9e24fa1a0038f0310b1d14dc725ff817294de1b44738.webp"
+    },
+    {
+      "sha256": "9ec6375a51ae267d216b77a3bdc74037d660645b3bebecbb6a3566dc3f146ae3",
+      "originalLocalFile": "media-unique/9ec6375a51ae267d_minecraft-og.webp",
+      "bytes": 82998,
+      "extension": ".webp",
+      "duplicateCount": 1,
+      "sources": [
+        "ZXKO site mirror:minecraft-og.webp"
+      ],
+      "repositoryFile": "image-originals/9e/9ec6375a51ae267d216b77a3bdc74037d660645b3bebecbb6a3566dc3f146ae3.webp",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/9e/9ec6375a51ae267d216b77a3bdc74037d660645b3bebecbb6a3566dc3f146ae3.webp"
+    },
+    {
+      "sha256": "9f3bf1b5b90aae1d0cedee371b443f90142ba7fcd3cd421a78add59fb293acc0",
+      "originalLocalFile": "media-unique/9f3bf1b5b90aae1d_addons-category.webp",
+      "bytes": 4376,
+      "extension": ".webp",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO site mirror:images\\minecraft\\addons-category.webp",
+        "ZXKO rendered detail sample:images\\minecraft\\addons-category.webp"
+      ],
+      "repositoryFile": "image-originals/9f/9f3bf1b5b90aae1d0cedee371b443f90142ba7fcd3cd421a78add59fb293acc0.webp",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/9f/9f3bf1b5b90aae1d0cedee371b443f90142ba7fcd3cd421a78add59fb293acc0.webp"
+    },
+    {
+      "sha256": "a0703b6e6a83e2e57d1c842ef833284359490ca6babc8d605949cec244da863f",
+      "originalLocalFile": "media-unique/a0703b6e6a83e2e5_hero-mod-thumb.webp",
+      "bytes": 107800,
+      "extension": ".webp",
+      "duplicateCount": 2,
+      "sources": [
+        "ZXKO site mirror:hero-mod-thumb.webp",
+        "ZXKO rendered detail sample:hero-mod-thumb.webp"
+      ],
+      "repositoryFile": "image-originals/a0/a0703b6e6a83e2e57d1c842ef833284359490ca6babc8d605949cec244da863f.webp",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/a0/a0703b6e6a83e2e57d1c842ef833284359490ca6babc8d605949cec244da863f.webp"
+    },
+    {
+      "sha256": "de2ca40fdd853434728fd6e55fb40eaa091e74f57d6beeb5f983de80f880252f",
+      "originalLocalFile": "media-unique/de2ca40fdd853434_ic_launcher_round.webp",
+      "bytes": 18422,
+      "extension": ".webp",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/mipmap-xxhdpi-v4/ic_launcher_round.webp"
+      ],
+      "repositoryFile": "image-originals/de/de2ca40fdd853434728fd6e55fb40eaa091e74f57d6beeb5f983de80f880252f.webp",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/de/de2ca40fdd853434728fd6e55fb40eaa091e74f57d6beeb5f983de80f880252f.webp"
+    },
+    {
+      "sha256": "f56a46d613f497bd28b78b9f8f04887e66c7533edb8f26bcaf3e983d18f046be",
+      "originalLocalFile": "media-unique/f56a46d613f497bd_ic_launcher_foreground.webp",
+      "bytes": 5754,
+      "extension": ".webp",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/mipmap-mdpi-v4/ic_launcher_foreground.webp"
+      ],
+      "repositoryFile": "image-originals/f5/f56a46d613f497bd28b78b9f8f04887e66c7533edb8f26bcaf3e983d18f046be.webp",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/f5/f56a46d613f497bd28b78b9f8f04887e66c7533edb8f26bcaf3e983d18f046be.webp"
+    },
+    {
+      "sha256": "f93ff20ccec268b6344f6637e82eb23b87b59d1d2904340b0c44f3ce0152bee6",
+      "originalLocalFile": "media-unique/f93ff20ccec268b6_ic_launcher.webp",
+      "bytes": 7266,
+      "extension": ".webp",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/mipmap-xhdpi-v4/ic_launcher.webp"
+      ],
+      "repositoryFile": "image-originals/f9/f93ff20ccec268b6344f6637e82eb23b87b59d1d2904340b0c44f3ce0152bee6.webp",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/f9/f93ff20ccec268b6344f6637e82eb23b87b59d1d2904340b0c44f3ce0152bee6.webp"
+    },
+    {
+      "sha256": "febe69922065ee7005bc398e14a1661eabee541f4fc7d2650f98b0cb9da15e00",
+      "originalLocalFile": "media-unique/febe69922065ee70_ic_launcher_round.webp",
+      "bytes": 27944,
+      "extension": ".webp",
+      "duplicateCount": 1,
+      "sources": [
+        "Dazero APK:res/mipmap-xxxhdpi-v4/ic_launcher_round.webp"
+      ],
+      "repositoryFile": "image-originals/fe/febe69922065ee7005bc398e14a1661eabee541f4fc7d2650f98b0cb9da15e00.webp",
+      "githubRawUrl": "https://raw.githubusercontent.com/Guihjzzz/zxko-dazero-image-archive/main/image-originals/fe/febe69922065ee7005bc398e14a1661eabee541f4fc7d2650f98b0cb9da15e00.webp"
+    }
+  ]
+}
